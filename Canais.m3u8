@@ -1,0 +1,29 @@
+#EXTINF:-1 tvg-id="TELECINEACTION" tvg-name="" group-title="" tvg-logo="" ,Telecine Aaction
+https://abc.embedmax.site/Telecineaction/video.m3u8
+
+#EXTINF:-1 tvg-id="TELECINEFUN" tvg-name="" group-title="" tvg-logo="" ,Telecine Fun
+https://abc.embedmax.site/Telecinefun/video.m3u8
+
+#EXTINF:-1 tvg-id="TELECINEPIPOCA" tvg-name="" group-title="" tvg-logo="" ,Telecine Pipoca
+https://abc.embedmax.site/Telecinepipoca/video.m3u8
+
+#EXTINF:-1 tvg-id="TELECINETOUCH" tvg-name="" group-title="" tvg-logo="" ,Telecine Touch
+https://abc.embedmax.site/Telecinetouch/video.m3u8
+
+#EXTINF:-1 tvg-id="TELECINEPREMIUM" tvg-name="" group-title="" tvg-logo="" ,Telecine Premium
+https://abc.embedmax.site/Telecinepremium/video.m3u8
+
+#EXTINF:-1 tvg-id="TELECINECULT" tvg-name="" group-title="" tvg-logo="" ,Telecine Cult
+https://abc.embedmax.site/Telecinecult/video.m3u8
+
+#EXTINF:-1 tvg-id="SONYBR" tvg-name="" group-title="" tvg-logo="" ,Sony
+https://abc.embedmax.site/sonychannel/video.m3u8
+
+#EXTINF:-1 tvg-id="AMCBR" tvg-name="" group-title="" tvg-logo="" ,AMC
+https://abc.embedmax.site/amc/video.m3u8
+
+#EXTINF:-1 tvg-id="AXNBR" tvg-name="" group-title="" tvg-logo="" ,AXN
+https://abc.embedmax.site/axn/video.m3u8
+
+#EXTINF:-1 tvg-id="TNTBR" tvg-name="" group-title="" tvg-logo="" ,TNT
+https://abc.embedmax.site/tnt/index.m3u8
