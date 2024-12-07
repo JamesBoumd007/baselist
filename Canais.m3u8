@@ -18,6 +18,55 @@ https://super-cdn.link/espn2/index.m3u8
 #EXTINF:-1,ESPN 3
 https://super-cdn.link/espn3/index.m3u8
 
+#EXTINF:-1,ESPN 4
+https://super-cdn.link/espn4/index.m3u8
+
+#EXTINF:-1,ESPN 5
+https://super-cdn.link/espn5/index.m3u8
+
+#EXTINF:-1,ESPN 6
+https://super-cdn.link/espn6/index.m3u8
+
+#EXTINF:-1,Band Sport
+http://dzcdn.vood.top/hls/232_.m3u8
+
+#EXTINF:-1,Band Sport ALT
+http://home-playtv.com:8080/ArianLatino/EEtduxpDYqNh/48534
+
+#EXTINF:-1,Sportv
+https://super-cdn.link/sportv/index.m3u8
+
+#EXTINF:-1,Sportv 2
+https://super-cdn.link/sportv2/index.m3u8
+
+#EXTINF:-1,Sportv 3
+https://super-cdn.link/sportv3/index.m3u8
+
+#EXTINF:-1,Premiere Clubes
+https://super-cdn.link/premiereclubes/index.m3u8
+
+#EXTINF:-1,Premiere 2
+https://super-cdn.link/premiere2/index.m3u8
+
+#EXTINF:-1,Premiere 3
+https://super-cdn.link/premiere3/index.m3u8
+
+#EXTINF:-1,Premiere 4
+https://super-cdn.link/premiere4/index.m3u8
+
+#EXTINF:-1,Premiere 5
+https://super-cdn.link/premiere5/index.m3u8
+
+#EXTINF:-1,Premiere 6
+https://super-cdn.link/premiere6/index.m3u8
+
+#EXTINF:-1,Premiere 7
+https://super-cdn.link/premiere7/index.m3u8
+
+#EXTINF:-1,Premiere 7 ALT
+http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/160
+
+
 # Jornalismo
 
 #EXTINF:-1,CNN Brasil
@@ -28,4 +77,130 @@ https://cc-7pakstinpyajo.akamaized.net/playlist1080p.m3u8
 
 #EXTINF:-1,JP News
 https://d9tard1jbwri9.cloudfront.net/playlist1080p.m3u8
+
+
+# Desenhos
+
+#EXTINF:-1,Disney Channel
+http://15.235.50.115:14563/DisneyChannel
+
+#EXTINF:-1,Discovery Kids
+http://15.235.50.115:14561/DiscoveryKids
+
+#EXTINF:-1,Tom and Jerry
+http://24hrs.homelinux.com:80/24H-tom-e-jerry/playlist.m3u8
+
+#EXTINF:-1,kids Mais
+https://video03.logicahost.com.br/novafamilia01/novafamilia01/playlist.m3u8
+
+#EXTINF:-1,Wacky Races (Corrida Maluca)
+http://24hrs.homelinux.com:80/24H-Corrida.Maluca/playlist.m3u8
+
+#EXTINF:-1,Dragon Ball Z
+http://24hrs.homelinux.com:80/24H-dragon.ball.z/playlist.m3u8
+
+#EXTINF:-1,Dragon Ball Z kai
+http://24hrs.homelinux.com:80/24H-dragon.ball.z.kai/playlist.m3u8
+
+#EXTINF:-1,Dragon Ball GT
+http://24hrs.homelinux.com:80/24H-dragon.ball.gt/playlist.m3u8
+
+#EXTINF:-1,Dragon Ball Super
+http://24hrs.homelinux.com:80/24H-dragon.ball.super/video.m3u8
+
+#EXTINF:-1,Retro Cartoon
+https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
+
+#EXTINF:-1,loadingtv
+https://stmv1.srvif.com/loadingtv/loadingtv/chunklist_w1499921038.m3u8
+
+#EXTINF:-1,Anime TV
+https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+
+# Documentarios
+
+#EXTINF:-1,Tv Pet
+https://isaocorp.cloudecast.com/tvmaispet/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Discovery World
+http://15.235.50.112:14112/DiscoveryWorld
+
+#EXTINF:-1,Curta
+http://15.235.50.114:19171/Curta
+
+# Filmes
+
+#EXTINF:-1,Telecine Action
+https://abc.embedmax.site/tcaction/video.m3u8
+
+#EXTINF:-1,Telecine Premium
+http://15.235.50.113:14009/TCPremium
+
+#EXTINF:-1,Telecine Pipoca
+http://15.235.15.230:14005/TCPipoca
+
+#EXTINF:-1,Telecine Cult
+http://15.235.50.113:14015/TelecineCult
+
+#EXTINF:-1,Telecine Fun
+http://15.235.50.113:14018/TelecineFun
+
+#EXTINF:-1,Telecine Touch
+http://15.235.50.113:14012/TelecineTouch
+
+#EXTINF:-1,AMC
+http://dzcdn.vood.top/hls/669_.m3u8
+
+#EXTINF:-1,Paramount Network
+http://dzcdn.vood.top/hls/695_.m3u8
+
+#EXTINF:-1,Sony One Emoções
+https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SonyOneEmocoes/playlist.m3u8
+
+# Musicas
+
+#EXTINF:-1,NOW 70
+https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,XITE
+https://xite-samsung-de.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,XITE Rock X Metal
+https://dri82941jql2y.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1,XITE Rock
+https://xite-rockoneu-lg.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,XITE 80s Flashback
+https://d19xo51z4ig5jl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/80sFlashback-Canada-prod/playlist.m3u8
+
+#EXTINF:-1,XITE 90s Throwback
+https://d3fr64zqebnqn3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/usbb3200007ak-prod/amg90rock/playlist.m3u8
+
+#EXTINF:-1,XITE Celebrates
+https://d3jrybhjdqht1p.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zif4invbz9iap/playlist.m3u8
+
+#EXTINF:-1,XITE Hits
+https://xite-hitsuk-lg.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,XITE Just Chill
+https://d3ai750ol9my06.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/JustChill-prod/playlist.m3u8
+
+#EXTINF:-1,Vevo Retro Rock
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevoretrorockau-samsungau/playlist.m3u8
+
+#EXTINF:-1,Vevo Pop
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevopopau-samsungau/playlist.m3u8
+
+#EXTINF:-1,Vevo 2k
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo2kau-samsungau/playlist.m3u8
+
+#EXTINF:-1,Vevo Country
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevocountryau-samsungau/playlist.m3u8
+
+#EXTINF:-1,Rock TV
+https://3ff10b5c36cb4729a63d9a2eb5e629f7.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-it_RockTV/playlist.m3u8?ads.wurl_channel=1367&ads.wurl_name=RockTV&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+
+#EXTINF:-1,DanceHits80s
+http://dancehits80.denvs.ru:8080/index.m3u8
 
