@@ -1,3 +1,31 @@
+# Series
+
 #EXTM3U
 #EXTINF:-1 ,Terapia de choque
 https://amg00353-lionsgatestudio-tratamentodechoque-runtimelatam-rmwee.amagi.tv/playlist/amg00353-lionsgatestudio-tratamentodechoque-runtimelatam/playlist.m3u8
+
+# Esportes
+
+#EXTINF:-1,MAVTV Brasil
+https://cc-panvcqnzkgrdl.akamaized.net/Sports7/Sports7_BR/Sports7.m3u8
+
+#EXTINF:-1,ESPN
+http://hzcdn.vood.top:80/hls/309458_.m3u8
+
+#EXTINF:-1,ESPN 2
+https://super-cdn.link/espn2/index.m3u8
+
+#EXTINF:-1,ESPN 3
+https://super-cdn.link/espn3/index.m3u8
+
+# Jornalismo
+
+#EXTINF:-1,CNN Brasil
+https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
+
+#EXTINF:-1,New Brasil
+https://cc-7pakstinpyajo.akamaized.net/playlist1080p.m3u8
+
+#EXTINF:-1,JP News
+https://d9tard1jbwri9.cloudfront.net/playlist1080p.m3u8
+
