@@ -1,84 +1,3 @@
-# Series
-
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Series" tvg-logo="",Terapia de choque
-https://amg00353-lionsgatestudio-tratamentodechoque-runtimelatam-rmwee.amagi.tv/playlist/amg00353-lionsgatestudio-tratamentodechoque-runtimelatam/playlist.m3u8
-
-# Esportes
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Esportes" tvg-logo="",MAVTV Brasil
-https://cc-panvcqnzkgrdl.akamaized.net/Sports7/Sports7_BR/Sports7.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Esportes" tvg-logo="",ESPN
-http://hzcdn.vood.top:80/hls/309458_.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Esportes" tvg-logo="",ESPN 2
-https://super-cdn.link/espn2/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Esportes" tvg-logo="",ESPN 3
-https://super-cdn.link/espn3/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Esportes" tvg-logo="",ESPN 4
-https://super-cdn.link/espn4/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Esportes" tvg-logo="",ESPN 5
-https://super-cdn.link/espn5/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Esportes" tvg-logo="",ESPN 6
-https://super-cdn.link/espn6/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Esportes" tvg-logo="",Band Sport
-http://dzcdn.vood.top/hls/232_.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Esportes" tvg-logo="",Band Sport ALT
-http://home-playtv.com:8080/ArianLatino/EEtduxpDYqNh/48534
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Esportes" tvg-logo="",Sportv
-https://super-cdn.link/sportv/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Esportes" tvg-logo="",Sportv 2
-https://super-cdn.link/sportv2/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Esportes" tvg-logo="",Sportv 3
-https://super-cdn.link/sportv3/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Esportes" tvg-logo="",Premiere Clubes
-https://super-cdn.link/premiereclubes/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Esportes" tvg-logo="",Premiere 2
-https://super-cdn.link/premiere2/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Esportes" tvg-logo="",Premiere 3
-https://super-cdn.link/premiere3/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Esportes" tvg-logo="",Premiere 4
-https://super-cdn.link/premiere4/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Esportes" tvg-logo="",Premiere 5
-https://super-cdn.link/premiere5/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Esportes" tvg-logo="",Premiere 6
-https://super-cdn.link/premiere6/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Esportes" tvg-logo="",Premiere 7
-https://super-cdn.link/premiere7/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Esportes" tvg-logo="",Premiere 7 ALT
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/160
-
-
-# Jornalismo
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jornalismo" tvg-logo="",CNN Brasil
-https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jornalismo" tvg-logo="",New Brasil
-https://cc-7pakstinpyajo.akamaized.net/playlist1080p.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jornalismo" tvg-logo="",JP News
-https://d9tard1jbwri9.cloudfront.net/playlist1080p.m3u8
-
-
 # Desenhos
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Desenhos" tvg-logo="",Cartoon Network
@@ -98,18 +17,6 @@ https://video03.logicahost.com.br/novafamilia01/novafamilia01/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Desenhos" tvg-logo="",Corrida Maluca
 http://24hrs.homelinux.com:80/24H-Corrida.Maluca/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="DragonBall" tvg-logo="",Dragon Ball Z
-http://24hrs.homelinux.com:80/24H-dragon.ball.z/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="DragonBall" tvg-logo="",Dragon Ball Z kai
-http://24hrs.homelinux.com:80/24H-dragon.ball.z.kai/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="DragonBall" tvg-logo="",Dragon Ball GT
-http://24hrs.homelinux.com:80/24H-dragon.ball.gt/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="DragonBall" tvg-logo="",Dragon Ball Super
-http://24hrs.homelinux.com:80/24H-dragon.ball.super/video.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Desenhos" tvg-logo="",Retro Cartoon
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
@@ -236,41 +143,3 @@ https://3ff10b5c36cb4729a63d9a2eb5e629f7.mediatailor.us-east-1.amazonaws.com/v1/
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Musicas" tvg-logo="",DanceHits80s
 http://dancehits80.denvs.ru:8080/index.m3u8
-
-# +18
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="+18" tvg-logo="",Miami TV
-https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="+18" tvg-logo="",Miami TV Replay
-https://59ec5453559f0.streamlock.net/JennyLiveMembers/smil:WEB/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="+18" tvg-logo="",Miami TV Latino
-https://59ec5453559f0.streamlock.net/Latino/smil:WEB4141/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="+18" tvg-logo="",Babestation
-http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/9528_264_live.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="+18" tvg-logo="",Sextreme
-http://38.41.8.1:8000/play/a0ex
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="+18" tvg-logo="",Blacked
-http://168.119.255.170/715/mono.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="+18" tvg-logo="",Erox HD
-http://178.219.128.68:64888/EROXHD
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="+18" tvg-logo="",Barely Legal
-http://ott.watch/stream/83K27DP6PU/289.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="+18" tvg-logo="",Barely Legal
-http://168.119.255.170/711/mono.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="+18" tvg-logo="",Playboy TV
-http://181.78.109.49:8000/play/a01c/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="+18" tvg-logo="",Playboy TV
-http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="+18" tvg-logo="",Venus tv
-http://45.5.117.3:4000/play/a04e/index.m3u8
