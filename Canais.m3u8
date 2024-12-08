@@ -204,40 +204,40 @@ http://gohbhosting.xyz:8080/Xpluxkikivgfcgkiki/Solucao11/1880
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Musicas" tvg-logo="",NOW 70
 https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Musicas" tvg-logo="",XITE
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Musicas" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/xite.png",XITE
 https://xite-samsung-de.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Musicas" tvg-logo="",XITE Rock X Metal
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Musicas" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/xite.png",XITE Rock X Metal
 https://dri82941jql2y.cloudfront.net/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Musicas" tvg-logo="",XITE Rock
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Musicas" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/xite.png",XITE Rock
 https://xite-rockoneu-lg.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Musicas" tvg-logo="",XITE 80s Flashback
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Musicas" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/xite.png",XITE 80s Flashback
 https://d19xo51z4ig5jl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/80sFlashback-Canada-prod/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Musicas" tvg-logo="",XITE 90s Throwback
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Musicas" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/xite.png",XITE 90s Throwback
 https://d3fr64zqebnqn3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/usbb3200007ak-prod/amg90rock/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Musicas" tvg-logo="",XITE Celebrates
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Musicas" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/xite.png",XITE Celebrates
 https://d3jrybhjdqht1p.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zif4invbz9iap/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Musicas" tvg-logo="",XITE Hits
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Musicas" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/xite.png",XITE Hits
 https://xite-hitsuk-lg.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Musicas" tvg-logo="",XITE Just Chill
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Musicas" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/xite.png",XITE Just Chill
 https://d3ai750ol9my06.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/JustChill-prod/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Musicas" tvg-logo="",Vevo Retro Rock
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Musicas" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/vevo.png",Vevo Retro Rock
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevoretrorockau-samsungau/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Musicas" tvg-logo="",Vevo Pop
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Musicas" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/vevo.png",Vevo Pop
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevopopau-samsungau/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Musicas" tvg-logo="",Vevo 2k
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Musicas" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/vevo.png",Vevo 2k
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo2kau-samsungau/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Musicas" tvg-logo="",Vevo Country
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Musicas" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/vevo.png",Vevo Country
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevocountryau-samsungau/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Musicas" tvg-logo="",Rock TV
