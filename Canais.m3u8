@@ -178,7 +178,7 @@ https://abc.embedmax.site/hboplus/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/hbofamily.webp",HBO Family
 https://abc.embedmax.site/hbofamily/video.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/hboxtreme.png",HBO Xtreme
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/hboxtreme.jpg",HBO Xtreme
 https://abc.embedmax.site/hboxtreme/video.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/megapix.png",Megapix
