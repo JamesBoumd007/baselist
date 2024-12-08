@@ -154,7 +154,7 @@ http://dzcdn.vood.top/hls/669_.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/paramountnet.webp",Paramount Network
 http://dzcdn.vood.top/hls/695_.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmes" tvg-logo="",Sony One Emoções
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/sonyemo.webp",Sony One Emoções
 https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SonyOneEmocoes/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/sonychannel.webp",Sony
