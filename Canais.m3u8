@@ -175,28 +175,28 @@ https://abc.embedmax.site/hbo2/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/hboplus.webp",HBO Plus
 https://abc.embedmax.site/hboplus/video.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmes" tvg-logo="",HBO Family
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/hbofamily.webp",HBO Family
 https://abc.embedmax.site/hbofamily/video.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmes" tvg-logo="",HBO Xtreme
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/hboxtreme.png",HBO Xtreme
 https://abc.embedmax.site/hboxtreme/video.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmes" tvg-logo="",Megapix
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/megapix.png",Megapix
 https://abc.embedmax.site/megapix/video.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmes" tvg-logo="",Studio Universal
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/studiouniversal.webp",Studio Universal
 https://abc.embedmax.site/universaltv/video.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmes" tvg-logo="",TNT
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/tnt.webp",TNT
 https://abc.embedmax.site/tnt/video.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmes" tvg-logo="",TNT Series
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/tntseries.png",TNT Series
 http://gohbhosting.xyz:8080/Xpluxkikivgfcgkiki/Solucao11/108
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmes" tvg-logo="",Universal
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/universaltv.png",Universal
 http://supersonictv.live:8080/329474/903964/85119
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmes" tvg-logo="",Warner
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/warner.png",Warner
 http://gohbhosting.xyz:8080/Xpluxkikivgfcgkiki/Solucao11/1880
 
 # Musicas
@@ -275,10 +275,10 @@ http://ott.watch/stream/83K27DP6PU/289.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="+18" tvg-logo="",Barely Legal
 http://168.119.255.170/711/mono.m3u8?token=M4f082ab4c
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="+18" tvg-logo="",Playboy TV
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="+18" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/playboy.png",Playboy TV
 http://181.78.109.49:8000/play/a01c/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="+18" tvg-logo="",Playboy TV
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="+18" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/playboy.png",Playboy TV
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="+18" tvg-logo="",Venus tv
