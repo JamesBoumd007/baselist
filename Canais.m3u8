@@ -30,9 +30,6 @@ https://super-cdn.link/espn6/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/bandsports.png",Band Sport
 http://dzcdn.vood.top/hls/232_.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/bandsports.png",Band Sport ALT
-http://home-playtv.com:8080/ArianLatino/EEtduxpDYqNh/48534
-
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/sportv.png",Sportv
 https://super-cdn.link/sportv/index.m3u8
 
@@ -62,9 +59,6 @@ https://super-cdn.link/premiere6/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/pfc.png",Premiere 7
 https://super-cdn.link/premiere7/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/pfc.png",Premiere 7 ALT
-http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/160
 
 # Jornalismo
 
@@ -117,6 +111,9 @@ http://15.235.50.114:19171/Curta
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Documentarios" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/natgeo.webp",National Geographic
 https://abc.embedmax.site/nationalgeographic/video.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Documentarios" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/dhh.png",Discovery h&h
+https://abc.embedmax.site/discoveryheh/video.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Documentarios" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/discoveryturbo.png",Discovery Turbo
 https://abc.embedmax.site/discoveryturbo/video.m3u8
 
@@ -134,7 +131,7 @@ http://supersonictv.live:8080/329474/903964/85121
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Diversos" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/logo_tVEa6RS.png",Tv Pet
 https://isaocorp.cloudecast.com/tvmaispet/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Diversos" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/cc.webp",Comedy Central
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Diversos" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/cc.png",Comedy Central
 https://abc.embedmax.site/comedycentral/video.m3u8
 
 # Filmes
@@ -163,7 +160,7 @@ https://abc.embedmax.site/ae/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/amc.webp",AMC
 http://dzcdn.vood.top/hls/669_.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/paramountnet.webp",Paramount Network
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/paramountnet.webp",Paramount
 http://dzcdn.vood.top/hls/695_.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/sonyemo.webp",Sony One Emoções
