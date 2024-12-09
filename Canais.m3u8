@@ -102,8 +102,11 @@ https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
 
 # Documentarios
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Documentarios" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/logo_tVEa6RS.png",Tv Pet
-https://isaocorp.cloudecast.com/tvmaispet/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Documentarios" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/ap.webp",Animal Planet
+https://abc.embedmax.site/animalplanet/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Documentarios" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/discovery.webp",Discovery Channel
+https://abc.embedmax.site/discoverychannel/video.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Documentarios" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/discoveryworld.png",Discovery World
 http://15.235.50.112:14112/DiscoveryWorld
@@ -114,11 +117,22 @@ http://15.235.50.114:19171/Curta
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Documentarios" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/natgeo.webp",National Geographic
 https://abc.embedmax.site/nationalgeographic/video.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Documentarios" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/discoveryturbo.webp",Discovery Turbo
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Documentarios" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/discoveryturbo.png",Discovery Turbo
 https://abc.embedmax.site/discoveryturbo/video.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Documentarios" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/viva.webp",VIVA
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Documentarios" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/history.webp",History
+https://abc.embedmax.site/history/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Documentarios" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/history2.webp",History 2
+https://abc.embedmax.site/history2/video.m3u8
+
+# Diversos
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Diversos" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/viva.webp",VIVA
 http://supersonictv.live:8080/329474/903964/85121
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Diversos" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/logo_tVEa6RS.png",Tv Pet
+https://isaocorp.cloudecast.com/tvmaispet/tracks-v1a1/mono.m3u8
 
 # Filmes
 
