@@ -111,6 +111,9 @@ http://15.235.50.112:14112/DiscoveryWorld
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Documentarios" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/curta.png",Curta
 http://15.235.50.114:19171/Curta
 
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Documentarios" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/viva.webp",VIVA
+http://supersonictv.live:8080/329474/903964/85121
+
 # Filmes
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/tcaction.png",Telecine Action
