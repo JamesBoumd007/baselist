@@ -185,6 +185,9 @@ http://supersonictv.live:8080/329474/903964/85119
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/warner.png",Warner
 http://gohbhosting.xyz:8080/Xpluxkikivgfcgkiki/Solucao11/1880
 
+#EXTINF:-1 tvg-id="space.br" tvg-name="SPACE" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/space.webp" group-title="Filmes",Space
+http://375055111841928970.ofbo1005.xyz:80/play/D1222731/wKDJx38QME/928970.ts
+
 # Musicas
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Musicas" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/NOW70s.webp",NOW 70
