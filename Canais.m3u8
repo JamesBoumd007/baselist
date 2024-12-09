@@ -71,7 +71,7 @@ http://authxplus-2.xyz:2082/Tourobox1-APhnnJ6sQS/7nAiGmzfNG/160
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Jornalismo" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/cnn.webp",CNN Brasil
 https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jornalismo" tvg-logo="",New Brasil
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jornalismo" tvg-logo="https://images.pluto.tv/channels/645a99282858cb0008ea8378/colorLogoPNG.png",New Brasil
 https://cc-7pakstinpyajo.akamaized.net/playlist1080p.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Jornalismo" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/jpnews.webp",JP News
@@ -97,18 +97,6 @@ https://video03.logicahost.com.br/novafamilia01/novafamilia01/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Desenhos" tvg-logo="https://www.justwatch.com/images/poster/261395892/s718/corrida-maluca.jpg",Corrida Maluca
 http://24hrs.homelinux.com:80/24H-Corrida.Maluca/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="DragonBall" tvg-logo="https://www.justwatch.com/images/backdrop/10843527/s640/dragon-ball-super.%7Bformat%7D",Dragon Ball Z
-http://24hrs.homelinux.com:80/24H-dragon.ball.z/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="DragonBall" tvg-logo="https://www.justwatch.com/images/backdrop/10843527/s640/dragon-ball-super.%7Bformat%7D",Dragon Ball Z kai
-http://24hrs.homelinux.com:80/24H-dragon.ball.z.kai/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="DragonBall" tvg-logo="https://www.justwatch.com/images/backdrop/10843527/s640/dragon-ball-super.%7Bformat%7D",Dragon Ball GT
-http://24hrs.homelinux.com:80/24H-dragon.ball.gt/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="DragonBall" tvg-logo="https://www.justwatch.com/images/backdrop/10843527/s640/dragon-ball-super.%7Bformat%7D",Dragon Ball Super
-http://24hrs.homelinux.com:80/24H-dragon.ball.super/video.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Desenhos" tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/rc.png",Retro Cartoon
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
 
@@ -117,7 +105,7 @@ https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Documentarios" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/logo_tVEa6RS.png",Tv Pet
 https://isaocorp.cloudecast.com/tvmaispet/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Documentarios" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/discoverywold.png",Discovery World
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Documentarios" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/discoverywold.webp",Discovery World
 http://15.235.50.112:14112/DiscoveryWorld
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Documentarios" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/curta.png",Curta
