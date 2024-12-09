@@ -125,14 +125,17 @@ https://abc.embedmax.site/history2/video.m3u8
 
 # Diversos
 
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Diversos" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/cc.png",Comedy Central
+https://abc.embedmax.site/comedycentral/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Diversos" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/gnt.png",GNT
+https://abc.embedmax.site/gnt/video.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Diversos" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/viva.webp",VIVA
 http://supersonictv.live:8080/329474/903964/85121
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Diversos" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/logo_tVEa6RS.png",Tv Pet
 https://isaocorp.cloudecast.com/tvmaispet/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Diversos" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/cc.png",Comedy Central
-https://abc.embedmax.site/comedycentral/video.m3u8
 
 # Filmes
 
