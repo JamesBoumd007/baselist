@@ -134,6 +134,9 @@ http://15.235.50.113:14018/TelecineFun
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/tctouch.png",Telecine Touch
 http://15.235.50.113:14012/TelecineTouch
 
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/aee.webp",A&E
+https://abc.embedmax.site/ae/video.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/amc.webp",AMC
 http://dzcdn.vood.top/hls/669_.m3u8
 
