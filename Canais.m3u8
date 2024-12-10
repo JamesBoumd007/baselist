@@ -63,18 +63,18 @@ https://super-cdn.link/premiere7/index.m3u8
 
 # Jornalismo
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jornalismo" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/cnn.webp",CNN Brasil
+#EXTINF:-1 tvg-id="CNN.Brasil.HD.br" tvg-name="CNN.Brasil.HD.br" group-title="Jornalismo" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/cnn.webp",CNN Brasil
 https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Jornalismo" tvg-logo="https://images.pluto.tv/channels/645a99282858cb0008ea8378/colorLogoPNG.png",New Brasil
 https://cc-7pakstinpyajo.akamaized.net/playlist1080p.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jornalismo" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/jpnews.webp",JP News
+#EXTINF:-1 tvg-id="Jovem.Pan.News.br" tvg-name="Jovem.Pan.News.br" group-title="Jornalismo" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/jpnews.webp",JP News
 https://d9tard1jbwri9.cloudfront.net/playlist1080p.m3u8
 
 # Desenhos
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Desenhos" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/cn.webp",Cartoon Network
+#EXTINF:-1 tvg-id="Cartoon.HD.br" tvg-name="Cartoon.HD.br" group-title="Desenhos" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/cn.webp",Cartoon Network
 https://abc.embedmax.site/cartoonnetwork/video.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Desenhos" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/disneychannel.png",Disney Channel
