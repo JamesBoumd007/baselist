@@ -190,7 +190,7 @@ https://abc.embedmax.site/fx/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/hbo.webp",HBO
 https://abc.embedmax.site/hbo/video.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/hbo2.webp",HBO2
+#EXTINF:-1 tvg-id="HBO.2.HD.br" tvg-name="HBO.2.HD.br" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/hbo2.webp",HBO2
 https://abc.embedmax.site/hbo2/video.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/hboplus.webp",HBO Plus
