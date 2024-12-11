@@ -167,6 +167,9 @@ http://dzcdn.vood.top/hls/695_.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sony One" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/sonyemo.webp",Sony One Emoções
 https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SonyOneEmocoes/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Syfy.HD.br" tvg-name="Syfy" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/syfy.png",Syfy
+http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191220.ts
+
 #EXTINF:-1 tvg-id="Sony.HD.br" tvg-name="Sony" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/sonychannel.webp",Sony
 https://abc.embedmax.site/sonychannel/video.m3u8
 
