@@ -1,3 +1,5 @@
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_BR1.xml.gz"
+
 # Desenhos
 
 #EXTINF:-1 tvg-id="Cartoon.HD.br" tvg-name="Cartoon" group-title="Desenhos" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/cn.webp",Cartoon Network
