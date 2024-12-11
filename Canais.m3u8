@@ -167,9 +167,6 @@ http://dzcdn.vood.top/hls/695_.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sony One" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/sonyemo.webp",Sony One Emoções
 https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SonyOneEmocoes/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Syfy.HD.br" tvg-name="Syfy" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/syfy.png",Syfy
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/191220.ts
-
 #EXTINF:-1 tvg-id="Sony.HD.br" tvg-name="Sony" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/sonychannel.webp",Sony
 https://abc.embedmax.site/sonychannel/video.m3u8
 
@@ -177,10 +174,10 @@ https://abc.embedmax.site/sonychannel/video.m3u8
 https://abc.embedmax.site/axn/video.m3u8
 
 #EXTINF:-1 tvg-id="Cinemax.HD.br" tvg-name="Cinemax" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/cinemax.png",Cinemax
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/71834.ts
+https://abc.embedmax.site/cinemax/video.m3u8
 
 #EXTINF:-1 tvg-id="Space.HD.br" tvg-name="Space" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/space.webp",Space
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72317.ts
+https://new.m3u8.one/space/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="FX.HD.br" tvg-name="FX" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/fx.webp",FX
 https://abc.embedmax.site/fx/video.m3u8
@@ -213,10 +210,10 @@ https://abc.embedmax.site/tnt/video.m3u8
 http://gohbhosting.xyz:8080/Xpluxkikivgfcgkiki/Solucao11/108
 
 #EXTINF:-1 tvg-id="Universal.TV.HD.br" tvg-name="Universal TV" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/universaltv.png",Universal Tv
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/72420.ts
+http://supersonictv.live:8080/329474/903964/85119
 
 #EXTINF:-1 tvg-id="Warner.HD.br" tvg-name="Warner" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/warner.png",Warner
-http://vptdlxun.online:80/reginaldooliver1/oliverreginaldo/90236.ts
+http://gohbhosting.xyz:8080/Xpluxkikivgfcgkiki/Solucao11/1880
 
 # Musicas
 
