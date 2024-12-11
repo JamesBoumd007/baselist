@@ -1,157 +1,147 @@
 # Desenhos
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Desenhos" tvg-logo="",Cartoon Network
+#EXTINF:-1 tvg-id="Cartoon.HD.br" tvg-name="Cartoon" group-title="Desenhos" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/cn.webp",Cartoon Network
 https://abc.embedmax.site/cartoonnetwork/video.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Desenhos" tvg-logo="",Disney Channel
+#EXTINF:-1 tvg-id="Disney.HD.br" tvg-name="Disney" group-title="Desenhos" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/disneychannel.png",Disney Channel
 http://15.235.50.115:14563/DisneyChannel
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Desenhos" tvg-logo="",Discovery Kids
+#EXTINF:-1 tvg-id="Discovery.Kids.HD.br" tvg-name="Discovery Kids" group-title="Desenhos" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/dkids.png",Discovery Kids
 http://15.235.50.115:14561/DiscoveryKids
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Desenhos" tvg-logo="",Tom and Jerry
-http://24hrs.homelinux.com:80/24H-tom-e-jerry/playlist.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.HD.br" tvg-name="Nickelodeon" group-title="Desenhos" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/nik.png",Nickelodeon
+https://abc.embedmax.site/nickelodeon/video.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Desenhos" tvg-logo="",kids Mais
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Desenhos" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/unnamed_4cMwnRI.png",Kids Mais
 https://video03.logicahost.com.br/novafamilia01/novafamilia01/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Desenhos" tvg-logo="",Corrida Maluca
-http://24hrs.homelinux.com:80/24H-Corrida.Maluca/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Desenhos" tvg-logo="",Retro Cartoon
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Desenhos" tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/rc.png",Retro Cartoon
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Desenhos" tvg-logo="",Anime TV
-https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 
 # Documentarios
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Documentarios" tvg-logo="",Tv Pet
-https://isaocorp.cloudecast.com/tvmaispet/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Animal.Planet.br" tvg-name="Animal Planet" group-title="Documentarios" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/ap.webp",Animal Planet
+https://abc.embedmax.site/animalplanet/video.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Documentarios" tvg-logo="",Discovery World
+#EXTINF:-1 tvg-id="Discovery.HD.br" tvg-name="Discovery" group-title="Documentarios" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/discovery.webp",Discovery Channel
+https://abc.embedmax.site/discoverychannel/video.m3u8
+
+#EXTINF:-1 tvg-id="Discovery.World.br" tvg-name="Discovery World" group-title="Documentarios" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/discoveryworld.png",Discovery World
 http://15.235.50.112:14112/DiscoveryWorld
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Documentarios" tvg-logo="",Curta
+#EXTINF:-1 tvg-id="Curta!.HD.br" tvg-name="Curta!" group-title="Documentarios" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/curta.png",Curta!
 http://15.235.50.114:19171/Curta
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Documentarios" tvg-logo="",VIVA
+#EXTINF:-1 tvg-id="Nat.Geo.HD.br" tvg-name="Nat Geo" group-title="Documentarios" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/natgeo.webp",National Geographic
+https://abc.embedmax.site/nationalgeographic/video.m3u8
+
+#EXTINF:-1 tvg-id="Discovery.Home.and.Health.HD.br" tvg-name="Discovery Home and Health" group-title="Documentarios" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/dhh.png",Discovery h&h
+https://abc.embedmax.site/discoveryheh/video.m3u8
+
+#EXTINF:-1 tvg-id="Discovery.Turbo.HD.br" tvg-name="Discovery Turbo" group-title="Documentarios" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/discoveryturbo.png",Discovery Turbo
+https://abc.embedmax.site/discoveryturbo/video.m3u8
+
+#EXTINF:-1 tvg-id="History.HD.br" tvg-name="History" group-title="Documentarios" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/history.webp",History
+https://abc.embedmax.site/history/video.m3u8
+
+#EXTINF:-1 tvg-id="History.2.br" tvg-name="History 2" group-title="Documentarios" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/history2.webp",History 2
+https://abc.embedmax.site/history2/video.m3u8
+
+# Diversos
+
+#EXTINF:-1 tvg-id="Comedy.Central.HD.br" tvg-name="Comedy Central" group-title="Diversos" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/cc.png",Comedy Central
+https://abc.embedmax.site/comedycentral/video.m3u8
+
+#EXTINF:-1 tvg-id="GNT.HD.br" tvg-name="GNT" group-title="Diversos" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/gnt.png",GNT
+https://abc.embedmax.site/gnt/video.m3u8
+
+#EXTINF:-1 tvg-id="Viva.HD.br" tvg-name="Viva" group-title="Diversos" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/viva.webp",VIVA
 http://supersonictv.live:8080/329474/903964/85121
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Diversos" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/logo_tVEa6RS.png",Tv Pet
+https://isaocorp.cloudecast.com/tvmaispet/tracks-v1a1/mono.m3u8
 
 # Filmes
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmes" tvg-logo="",Telecine Action
+#EXTINF:-1 tvg-id="Telecine.Action.HD.br" tvg-name="Telecine Action" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/tcaction.png",Telecine Action
 https://abc.embedmax.site/tcaction/video.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmes" tvg-logo="",Telecine Premium
+#EXTINF:-1 tvg-id="Telecine.HD.br" tvg-name="Telecine" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/tcpremium.png",Telecine Premium
 http://15.235.50.113:14009/TCPremium
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmes" tvg-logo="",Telecine Pipoca
+#EXTINF:-1 tvg-id="Telecine.Pipoca.HD.br" tvg-name="Telecine Pipoca" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/tcpipoca.png",Telecine Pipoca
 http://15.235.15.230:14005/TCPipoca
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmes" tvg-logo="",Telecine Cult
+#EXTINF:-1 tvg-id="Telecine.Cult.HD.br" tvg-name="Telecine Cult" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/tccult.png",Telecine Cult
 http://15.235.50.113:14015/TelecineCult
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmes" tvg-logo="",Telecine Fun
+#EXTINF:-1 tvg-id="Telecine.Fun.HD.br" tvg-name="Telecine Fun" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/tcfun.png",Telecine Fun
 http://15.235.50.113:14018/TelecineFun
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmes" tvg-logo="",Telecine Touch
+#EXTINF:-1 tvg-id="Telecine.Touch.HD.br" tvg-name="Telecine Touch" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/tctouch.png",Telecine Touch
 http://15.235.50.113:14012/TelecineTouch
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmes" tvg-logo="",AMC
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/aee.webp",A&E
+https://abc.embedmax.site/ae/video.m3u8
+
+#EXTINF:-1 tvg-id="AMC.br" tvg-name="AMC" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/amc.webp",AMC
 http://dzcdn.vood.top/hls/669_.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmes" tvg-logo="",Paramount Network
+#EXTINF:-1 tvg-id="Paramount.Network.HD.br" tvg-name="Paramount Network" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/paramountnet.webp",Paramount
 http://dzcdn.vood.top/hls/695_.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmes" tvg-logo="",Sony One Emoções
+#EXTINF:-1 tvg-id="" tvg-name="Sony One" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/sonyemo.webp",Sony One Emoções
 https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SonyOneEmocoes/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmes" tvg-logo="",Sony
+#EXTINF:-1 tvg-id="Sony.HD.br" tvg-name="Sony" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/sonychannel.webp",Sony
 https://abc.embedmax.site/sonychannel/video.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmes" tvg-logo="",AXN
+#EXTINF:-1 tvg-id="AXN.HD.br" tvg-name="AXN" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/axn.webp",AXN
 https://abc.embedmax.site/axn/video.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmes" tvg-logo="",Cinemax
+#EXTINF:-1 tvg-id="Cinemax.HD.br" tvg-name="Cinemax" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/cinemax.png",Cinemax
 https://abc.embedmax.site/cinemax/video.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmes" tvg-logo="",HBO
+#EXTINF:-1 tvg-id="Space.HD.br" tvg-name="Space" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/space.webp",Space
+https://new.m3u8.one/space/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="FX.HD.br" tvg-name="FX" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/fx.webp",FX
+https://abc.embedmax.site/fx/video.m3u8
+
+#EXTINF:-1 tvg-id="HBO.HD.br" tvg-name="HBO" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/hbo.webp",HBO
 https://abc.embedmax.site/hbo/video.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmes" tvg-logo="",HBO2
+#EXTINF:-1 tvg-id="HBO.2.HD.br" tvg-name="HBO2" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/hbo2.webp",HBO2
 https://abc.embedmax.site/hbo2/video.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmes" tvg-logo="",HBO Plus
+#EXTINF:-1 tvg-id="HBO.Plus.HD.br" tvg-name="HBO Plus" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/hboplus.webp",HBO Plus
 https://abc.embedmax.site/hboplus/video.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmes" tvg-logo="",HBO Family
+#EXTINF:-1 tvg-id="HBO.Family.HD.br" tvg-name="HBO Family" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/hbofamily.webp",HBO Family
 https://abc.embedmax.site/hbofamily/video.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmes" tvg-logo="",HBO Xtreme
+#EXTINF:-1 tvg-id="HBO.Xtreme.HD.br" tvg-name="HBO Xtreme" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/hboxtreme.jpg",HBO Xtreme
 https://abc.embedmax.site/hboxtreme/video.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmes" tvg-logo="",Megapix
+#EXTINF:-1 tvg-id="Megapix.HD.br" tvg-name="Megapix" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/megapix.png",Megapix
 https://abc.embedmax.site/megapix/video.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmes" tvg-logo="",Studio Universal
+#EXTINF:-1 tvg-id="Studio.Universal.br" tvg-name="Studio Universal" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/studiouniversal.webp",Studio Universal
 https://abc.embedmax.site/universaltv/video.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmes" tvg-logo="",TNT
+#EXTINF:-1 tvg-id="TNT.HD.br" tvg-name="TNT" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/tnt.webp",TNT
 https://abc.embedmax.site/tnt/video.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmes" tvg-logo="",TNT Series
+#EXTINF:-1 tvg-id="TNT.Series.HD.br" tvg-name="TNT Series" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/tntseries.png",TNT Series
 http://gohbhosting.xyz:8080/Xpluxkikivgfcgkiki/Solucao11/108
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmes" tvg-logo="",Universal
+#EXTINF:-1 tvg-id="Universal.TV.HD.br" tvg-name="Universal TV" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/universaltv.png",Universal
 http://supersonictv.live:8080/329474/903964/85119
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmes" tvg-logo="",Warner
+#EXTINF:-1 tvg-id="Warner.HD.br" tvg-name="Warner" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/warner.png",Warner
 http://gohbhosting.xyz:8080/Xpluxkikivgfcgkiki/Solucao11/1880
 
 # Musicas
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Musicas" tvg-logo="",NOW 70
-https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Musicas" tvg-logo="",XITE
-https://xite-samsung-de.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Musicas" tvg-logo="",XITE Rock X Metal
-https://dri82941jql2y.cloudfront.net/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Musicas" tvg-logo="",XITE Rock
-https://xite-rockoneu-lg.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Musicas" tvg-logo="",XITE 80s Flashback
-https://d19xo51z4ig5jl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/80sFlashback-Canada-prod/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Musicas" tvg-logo="",XITE 90s Throwback
-https://d3fr64zqebnqn3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/usbb3200007ak-prod/amg90rock/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Musicas" tvg-logo="",XITE Celebrates
-https://d3jrybhjdqht1p.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zif4invbz9iap/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Musicas" tvg-logo="",XITE Hits
-https://xite-hitsuk-lg.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Musicas" tvg-logo="",XITE Just Chill
-https://d3ai750ol9my06.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/JustChill-prod/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Musicas" tvg-logo="",Vevo Retro Rock
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevoretrorockau-samsungau/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Musicas" tvg-logo="",Vevo Pop
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevopopau-samsungau/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Musicas" tvg-logo="",Vevo 2k
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo2kau-samsungau/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Musicas" tvg-logo="",Vevo Country
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevocountryau-samsungau/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Musicas" tvg-logo="",Rock TV
-https://3ff10b5c36cb4729a63d9a2eb5e629f7.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-it_RockTV/playlist.m3u8?ads.wurl_channel=1367&ads.wurl_name=RockTV&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Musicas" tvg-logo="",DanceHits80s
-http://dancehits80.denvs.ru:8080/index.m3u8
+#EXTINF:-1 tvg-id="BIS.HD.br" tvg-name="Bis" group-title="Musicas" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/bis.png",Bis
+https://abc.embedmax.site/bis/video.m3u8
