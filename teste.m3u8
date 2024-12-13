@@ -182,8 +182,8 @@ https://new.m3u8.one/space/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="STAR.Channel.br" tvg-name="Star Channel" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/starc.png",Star Channel
 https://abc.embedmax.site/starchannel/video.m3u8
 
-#EXTINF:-1 tvg-id="USA.HD.br" tvg-name="Star Channel" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/syfy.png",Syfy
-http://yourservpan.com:3050/fischercorey@aol.com/Ud63vq9JMW/659798
+#EXTINF:-1 tvg-id="USA.HD.br" tvg-name="USA" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/usa.png",USA
+http://supersonictv.live:8080/329474/903964/85097
 
 #EXTINF:-1 tvg-id="FX.HD.br" tvg-name="FX" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/fx.webp",FX
 https://abc.embedmax.site/fx/video.m3u8
