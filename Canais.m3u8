@@ -228,38 +228,8 @@ https://abc.embedmax.site/bis/video.m3u8
 
 # +18
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="+18" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Miami_tv.png",Miami TV
-https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="+18" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Miami_tv.png",Miami TV Replay
-https://59ec5453559f0.streamlock.net/JennyLiveMembers/smil:WEB/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="+18" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Miami_tv.png",Miami TV Latino
-https://59ec5453559f0.streamlock.net/Latino/smil:WEB4141/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="+18" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Porn_Barnstar_Hires.png",Babestation
-http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/9528_264_live.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="+18" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/%2B18x.webp",Sextreme
-http://38.41.8.1:8000/play/a0ex
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="+18" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/%2B18x.webp",Blacked
-http://168.119.255.170/715/mono.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="+18" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/%2B18x.webp",Erox HD
-http://178.219.128.68:64888/EROXHD
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="+18" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/%2B18x.webp",Barely Legal
-http://ott.watch/stream/83K27DP6PU/289.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="+18" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/%2B18x.webp",Barely Legal
-http://168.119.255.170/711/mono.m3u8?token=M4f082ab4c
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="+18" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/playboy.png",Playboy TV
-http://181.78.109.49:8000/play/a01c/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="+18" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/playboy.png",Playboy TV
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="+18" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/%2B18x.webp",Venus tv
-http://45.5.117.3:4000/play/a04e/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="+18" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/redl.png",REDLIGHT
+https://moonlight.wideiptv.top/RedlightHD/index.fmp4.m3u8?token=bc8718007e465b75f06dac6157f3879af34334f7-a7af3fe2f7c4cfc7eb11acf6c31488a5-1734229945-1734219145
