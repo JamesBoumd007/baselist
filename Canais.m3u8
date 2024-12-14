@@ -231,5 +231,8 @@ https://abc.embedmax.site/bis/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="+18" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/playboy.png",Playboy TV
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="+18" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/redl.png",REDLIGHT
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="+18" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/redl.png",RED LIGHT
 https://moonlight.wideiptv.top/RedlightHD/index.fmp4.m3u8?token=bc8718007e465b75f06dac6157f3879af34334f7-a7af3fe2f7c4cfc7eb11acf6c31488a5-1734229945-1734219145
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="+18" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/brazz.png",Brazzers TV
+https://moonlight.wideiptv.top/BrazzersTVEU/index.fmp4.m3u8?token=75125bab1b06803323d7e305f7e58450f2b8f264-62e647b90c26d489a6d3474ea1c2d413-1734230172-1734219372
