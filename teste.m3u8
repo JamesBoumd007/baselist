@@ -141,19 +141,19 @@ https://isaocorp.cloudecast.com/tvmaispet/tracks-v1a1/mono.m3u8
 https://abc.embedmax.site/tcaction/video.m3u8
 
 #EXTINF:-1 tvg-id="Telecine.HD.br" tvg-name="Telecine" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/tcpremium.png",Telecine Premium
-http://15.235.50.113:14009/TCPremium
+https://abc.embedmax.site/tcpremium/video.m3u8
 
 #EXTINF:-1 tvg-id="Telecine.Pipoca.HD.br" tvg-name="Telecine Pipoca" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/tcpipoca.png",Telecine Pipoca
-http://15.235.15.230:14005/TCPipoca
+https://abc.embedmax.site/tcpipoca/video.m3u8
 
 #EXTINF:-1 tvg-id="Telecine.Cult.HD.br" tvg-name="Telecine Cult" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/tccult.png",Telecine Cult
-http://15.235.50.113:14015/TelecineCult
+https://abc.embedmax.site/tccult/video.m3u8
 
 #EXTINF:-1 tvg-id="Telecine.Fun.HD.br" tvg-name="Telecine Fun" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/tcfun.png",Telecine Fun
-http://15.235.50.113:14018/TelecineFun
+https://abc.embedmax.site/tcfun/video.m3u8
 
 #EXTINF:-1 tvg-id="Telecine.Touch.HD.br" tvg-name="Telecine Touch" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/tctouch.png",Telecine Touch
-http://15.235.50.113:14012/TelecineTouch
+https://abc.embedmax.site/tctouch/video.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/aee.webp",A&E
 https://abc.embedmax.site/ae/video.m3u8
@@ -183,7 +183,7 @@ https://new.m3u8.one/space/tracks-v1a1/mono.m3u8
 https://abc.embedmax.site/starchannel/video.m3u8
 
 #EXTINF:-1 tvg-id="USA.HD.br" tvg-name="USA" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/usa.png",USA
-http://supersonictv.live:8080/329474/903964/85097
+https://super-cdn.link/usa/index.m3u8
 
 #EXTINF:-1 tvg-id="FX.HD.br" tvg-name="FX" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/fx.webp",FX
 https://abc.embedmax.site/fx/video.m3u8
@@ -216,7 +216,7 @@ https://abc.embedmax.site/tnt/video.m3u8
 http://gohbhosting.xyz:8080/Xpluxkikivgfcgkiki/Solucao11/108
 
 #EXTINF:-1 tvg-id="Universal.TV.HD.br" tvg-name="Universal TV" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/universaltv.png",Universal Tv
-https://anonstream.zip/usa/tracks-v1a1/mono.m3u8
+https://super-cdn.link/universaltv/index.m3u8
 
 #EXTINF:-1 tvg-id="Warner.HD.br" tvg-name="Warner" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/warner.png",Warner
 https://abc.embedmax.site/warnertv/video.m3u8
