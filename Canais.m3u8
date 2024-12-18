@@ -212,10 +212,10 @@ https://super-cdn.link/studiouniversal/index.m3u8
 #EXTINF:-1 tvg-id="TNT.HD.br" tvg-name="TNT" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/tnt.webp",TNT
 https://super-cdn.link/tnt/index.m3u8
 
-#EXTINF:-1 tvg-id="TNT.HD.br" tvg-name="TNT" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/tntn.png",TNT Novelas
+#EXTINF:-1 tvg-id="TNT.Novelas.br" tvg-name="TNT Novelas" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/tntn.png",TNT Novelas
 https://super-cdn.link/tntnovelas/index.m3u8
 
-#EXTINF:-1 tvg-id="TNT.Series.HD.br" tvg-name="TNT Series" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/tntseries.png",TNT Series
+#EXTINF:-1 tvg-id="TNT.SÃ©ries.HD.br" tvg-name="TNT Series" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/tntseries.png",TNT Series
 http://gohbhosting.xyz:8080/Xpluxkikivgfcgkiki/Solucao11/108
 
 #EXTINF:-1 tvg-id="Universal.TV.HD.br" tvg-name="Universal TV" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/universaltv.png",Universal Tv
