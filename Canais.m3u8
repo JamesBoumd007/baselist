@@ -75,7 +75,7 @@ https://d9tard1jbwri9.cloudfront.net/playlist1080p.m3u8
 # Desenhos
 
 #EXTINF:-1 tvg-id="Cartoon.HD.br" tvg-name="Cartoon" group-title="Desenhos" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/cn.webp",Cartoon Network
-https://abc.embedmax.site/cartoonnetwork/video.m3u8
+https://super-cdn.link/cartoonnetwork/video.m3u8
 
 #EXTINF:-1 tvg-id="Disney.HD.br" tvg-name="Disney" group-title="Desenhos" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/disneychannel.png",Disney Channel
 http://15.235.50.115:14563/DisneyChannel
@@ -84,7 +84,7 @@ http://15.235.50.115:14563/DisneyChannel
 http://15.235.50.115:14561/DiscoveryKids
 
 #EXTINF:-1 tvg-id="Nickelodeon.HD.br" tvg-name="Nickelodeon" group-title="Desenhos" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/nik.png",Nickelodeon
-https://abc.embedmax.site/nickelodeon/video.m3u8
+https://super-cdn.link/nickelodeon/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Desenhos" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/unnamed_4cMwnRI.png",Kids Mais
 https://video03.logicahost.com.br/novafamilia01/novafamilia01/playlist.m3u8
@@ -95,10 +95,10 @@ https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
 # Documentarios
 
 #EXTINF:-1 tvg-id="Animal.Planet.br" tvg-name="Animal Planet" group-title="Documentarios" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/ap.webp",Animal Planet
-https://abc.embedmax.site/animalplanet/video.m3u8
+https://super-cdn.link/animalplanet/index.m3u8
 
 #EXTINF:-1 tvg-id="Discovery.HD.br" tvg-name="Discovery" group-title="Documentarios" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/discovery.webp",Discovery Channel
-https://abc.embedmax.site/discoverychannel/video.m3u8
+https://super-cdn.link/discoverychannel/index.m3u8
 
 #EXTINF:-1 tvg-id="Discovery.World.br" tvg-name="Discovery World" group-title="Documentarios" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/discoveryworld.png",Discovery World
 http://15.235.50.112:14112/DiscoveryWorld
@@ -107,13 +107,13 @@ http://15.235.50.112:14112/DiscoveryWorld
 http://15.235.50.114:19171/Curta
 
 #EXTINF:-1 tvg-id="Nat.Geo.HD.br" tvg-name="Nat Geo" group-title="Documentarios" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/natgeo.webp",National Geographic
-https://abc.embedmax.site/nationalgeographic/video.m3u8
+https://super-cdn.link/nationalgeographic/index.m3u8
 
 #EXTINF:-1 tvg-id="Discovery.Home.and.Health.HD.br" tvg-name="Discovery Home and Health" group-title="Documentarios" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/dhh.png",Discovery h&h
-https://abc.embedmax.site/discoveryheh/video.m3u8
+https://super-cdn.link/discoveryheh/index.m3u8
 
 #EXTINF:-1 tvg-id="Discovery.Turbo.HD.br" tvg-name="Discovery Turbo" group-title="Documentarios" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/discoveryturbo.png",Discovery Turbo
-https://abc.embedmax.site/discoveryturbo/video.m3u8
+https://super-cdn.link/discoveryturbo/index.m3u8
 
 #EXTINF:-1 tvg-id="History.HD.br" tvg-name="History" group-title="Documentarios" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/history.webp",History
 https://abc.embedmax.site/history/video.m3u8
@@ -124,10 +124,10 @@ https://abc.embedmax.site/history2/video.m3u8
 # Diversos
 
 #EXTINF:-1 tvg-id="Comedy.Central.HD.br" tvg-name="Comedy Central" group-title="Diversos" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/cc.png",Comedy Central
-https://abc.embedmax.site/comedycentral/video.m3u8
+https://super-cdn.link/comedycentral/index.m3u8
 
 #EXTINF:-1 tvg-id="GNT.HD.br" tvg-name="GNT" group-title="Diversos" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/gnt.png",GNT
-https://abc.embedmax.site/gnt/video.m3u8
+https://super-cdn.link/gnt/index.m3u8
 
 #EXTINF:-1 tvg-id="Viva.HD.br" tvg-name="Viva" group-title="Diversos" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/viva.webp",VIVA
 https://abc.embedmax.site/viva/video.m3u8
@@ -211,6 +211,9 @@ https://super-cdn.link/studiouniversal/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT.HD.br" tvg-name="TNT" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/tnt.webp",TNT
 https://super-cdn.link/tnt/index.m3u8
+
+#EXTINF:-1 tvg-id="TNT.HD.br" tvg-name="TNT" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/tntn.png",TNT Novelas
+https://super-cdn.link/tntnovelas/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT.Series.HD.br" tvg-name="TNT Series" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/tntseries.png",TNT Series
 http://gohbhosting.xyz:8080/Xpluxkikivgfcgkiki/Solucao11/108
