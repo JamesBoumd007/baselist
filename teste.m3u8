@@ -231,6 +231,9 @@ https://abc.embedmax.site/bis/video.m3u8
 
 # +18
 
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="+18" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/playboy.png",Playboy TV
+http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="+18" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/brazz.png",Brazzers TV
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
