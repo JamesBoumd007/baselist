@@ -116,10 +116,10 @@ https://super-cdn.link/discoveryheh/index.m3u8
 https://super-cdn.link/discoveryturbo/index.m3u8
 
 #EXTINF:-1 tvg-id="History.HD.br" tvg-name="History" group-title="Documentarios" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/history.webp",History
-https://abc.embedmax.site/history/video.m3u8
+https://stream1.freetv.fun/cf48eb9b171e93d765a69684aa345e11597a6a972452a2d810d6facb2f66016d.m3u8
 
 #EXTINF:-1 tvg-id="History.2.br" tvg-name="History 2" group-title="Documentarios" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/history2.webp",History 2
-https://abc.embedmax.site/history2/video.m3u8
+https://super-cdn.link/history2/index.m3u8
 
 # Diversos
 
