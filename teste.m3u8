@@ -45,7 +45,7 @@ https://embedcanaistv.club/tvcultura/video.m3u8
 
 # Esportes
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/.webp",Combate
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/combate.png",Combate
 https://embedcanaistv.club/combate/video.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/mavtvbr.webp",MAVTV Brasil
