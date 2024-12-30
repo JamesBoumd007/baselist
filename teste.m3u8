@@ -1,13 +1,24 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_BR1.xml.gz"
 
-#YouTube
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Teste" tvg-logo="",PF
-https://ythls-v3.onrender.com/video/84Tq-eAJIk4.m3u8
+# 24h
 
-# Series
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Series 24h" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/tratamentodechoque.webp",Tratamento de Choque
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="24h" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/tratamentodechoque.webp",Tratamento de Choque
 https://amg00353-lionsgatestudio-tratamentodechoque-runtimelatam-rmwee.amagi.tv/playlist/amg00353-lionsgatestudio-tratamentodechoque-runtimelatam/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="24h" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/cdd.webp",Caverna do Dragao
+https://embedcanaistv.club/24h-cavernadodragao/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="24h" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/dbz.webp",Dragon Ball Z
+https://embedcanaistv.club/24h-dragonballz/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="24h" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/simp.webp",Os Simpsons
+https://embedcanaistv.club/24h-simpsons/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="24h" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/chaves.webp",Chaves
+https://embedcanaistv.club/24h-chaves/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="24h" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/chapolin.webp",Chapolin
+https://embedcanaistv.club/24h-chapolin/video.m3u8
 
 # Esportes
 
