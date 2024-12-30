@@ -20,7 +20,33 @@ https://embedcanaistv.club/24h-chaves/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="24h" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/chapolin.webp",Chapolin
 https://embedcanaistv.club/24h-chapolin/video.m3u8
 
+# Canais Abertos
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Abertos" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/.webp",Band
+https://embedcanaistv.club/bandsp/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Abertos" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/.webp",Globo
+https://embedcanaistv.club/globomg/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Abertos" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/.webp",Record
+https://embedcanaistv.club/recordmg/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Abertos" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/.webp",Rede TV
+https://embedcanaistv.club/redetv/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Abertos" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/.webp",Rede Vida
+https://embedcanaistv.club/redevida/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Abertos" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/.webp",SBT
+https://embedcanaistv.club/sbtsp/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Abertos" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/.webp",TV Cultura
+https://embedcanaistv.club/tvcultura/video.m3u8
+
 # Esportes
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/.webp",Combate
+https://embedcanaistv.club/combate/video.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/mavtvbr.webp",MAVTV Brasil
 https://cc-panvcqnzkgrdl.akamaized.net/Sports7/Sports7_BR/Sports7.m3u8
