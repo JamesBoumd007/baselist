@@ -1,5 +1,9 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_BR1.xml.gz"
 
+#YouTube
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Teste" tvg-logo="",PF
+https://ythls-v3.onrender.com/video/84Tq-eAJIk4.m3u8
+
 # Series
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Series 24h" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/tratamentodechoque.webp",Tratamento de Choque
