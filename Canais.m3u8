@@ -1,16 +1,52 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_BR1.xml.gz"
 
-# Series 24h
+# 24h
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Series 24h" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/tratamentodechoque.webp",Tratamento de Choque
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="24h" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/tratamentodechoque.webp",Tratamento de Choque
 https://amg00353-lionsgatestudio-tratamentodechoque-runtimelatam-rmwee.amagi.tv/playlist/amg00353-lionsgatestudio-tratamentodechoque-runtimelatam/playlist.m3u8
 
-# Series
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="24h" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/cdd.webp",Caverna do Dragao
+https://embedcanaistv.club/24h-cavernadodragao/video.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Chicago PD" tvg-logo="https://image.tmdb.org/t/p/w185/2nHdAW7MUMuXMJO6ev0mFMhEq8P.jpg", Chicago PD 12-1
-https://box-1009-u.vmeas.cloud/hls/xqx2pp56hjokjiqbtfichksnxcwatcjpvhazterw3,lddqlkcxuik4ngysj4a,crdqlkcxuingzxkpe6q,.urlset/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="24h" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/dbz.webp",Dragon Ball Z
+https://embedcanaistv.club/24h-dragonballz/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="24h" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/simp.webp",Os Simpsons
+https://embedcanaistv.club/24h-simpsons/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="24h" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/chaves.webp",Chaves
+https://embedcanaistv.club/24h-chaves/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="24h" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/chapolin.webp",Chapolin
+https://embedcanaistv.club/24h-chapolin/video.m3u8
+
+# Canais Abertos
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Abertos" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/band.png",Band
+https://embedcanaistv.club/bandsp/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Abertos" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/globo.png",Globo
+https://embedcanaistv.club/globomg/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Abertos" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/record.png",Record
+https://embedcanaistv.club/recordmg/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Abertos" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/redetv.png",Rede TV
+https://embedcanaistv.club/redetv/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Abertos" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/redevd.png",Rede Vida
+https://embedcanaistv.club/redevida/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Abertos" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/sbt.png",SBT
+https://embedcanaistv.club/sbtsp/video.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Abertos" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/tvcultura.png",TV Cultura
+https://embedcanaistv.club/tvcultura/video.m3u8
 
 # Esportes
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/combate.png",Combate
+https://embedcanaistv.club/combate/video.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/mavtvbr.webp",MAVTV Brasil
 https://cc-panvcqnzkgrdl.akamaized.net/Sports7/Sports7_BR/Sports7.m3u8
@@ -45,7 +81,7 @@ https://super-cdn.link/sportv2/index.m3u8
 #EXTINF:-1 tvg-id="SporTV.3.br" tvg-name="SporTV 3" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/sportv3.png",Sportv 3
 https://super-cdn.link/sportv3/index.m3u8
 
-#EXTINF:-1 tvg-id="Premiere.HD.br" tvg-name="Premiere" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/pfcclubes.png",Premiere Clubes
+#EXTINF:-1 tvg-id="Premiere.HD.br" tvg-name="Premiere" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/pfc.png",Premiere Clubes
 https://super-cdn.link/premiereclubes/index.m3u8
 
 #EXTINF:-1 tvg-id="Premiere.HD2.br" tvg-name="Premiere 2" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/pfc.png",Premiere 2
@@ -78,6 +114,9 @@ https://cc-7pakstinpyajo.akamaized.net/playlist1080p.m3u8
 https://d9tard1jbwri9.cloudfront.net/playlist1080p.m3u8
 
 # Desenhos
+
+#EXTINF:-1 tvg-id="Cartoon.HD.br" tvg-name="Cartoonito" group-title="Desenhos" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/cnito.png",Cartoonito
+https://embedcanaistv.club/cartoonito/video.m3u8
 
 #EXTINF:-1 tvg-id="Cartoon.HD.br" tvg-name="Cartoon" group-title="Desenhos" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/cn.webp",Cartoon Network
 https://super-cdn.link/cartoonnetwork/video.m3u8
@@ -121,7 +160,7 @@ https://super-cdn.link/discoveryheh/index.m3u8
 https://super-cdn.link/discoveryturbo/index.m3u8
 
 #EXTINF:-1 tvg-id="History.HD.br" tvg-name="History" group-title="Documentarios" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/history.webp",History
-https://super-cdn.link/history/index.m3u8
+https://stream1.freetv.fun/cf48eb9b171e93d765a69684aa345e11597a6a972452a2d810d6facb2f66016d.m3u8
 
 #EXTINF:-1 tvg-id="History.2.br" tvg-name="History 2" group-title="Documentarios" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/history2.webp",History 2
 https://super-cdn.link/history2/index.m3u8
@@ -142,22 +181,22 @@ https://isaocorp.cloudecast.com/tvmaispet/tracks-v1a1/mono.m3u8
 
 # Filmes
 
-#EXTINF:-1 tvg-id="Telecine.Action.HD.br" tvg-name="Telecine Action" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/tcaction.png",Telecine Action
+#EXTINF:-1 tvg-id="Telecine.Action.HD.br" tvg-name="Telecine Action" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/tca.png",Telecine Action
 https://super-cdn.link/telecineaction/video.m3u8
 
-#EXTINF:-1 tvg-id="Telecine.HD.br" tvg-name="Telecine" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/tcpremium.png",Telecine Premium
+#EXTINF:-1 tvg-id="Telecine.HD.br" tvg-name="Telecine" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/tcpre.png",Telecine Premium
 https://super-cdn.link/telecinepremium/video.m3u8
 
-#EXTINF:-1 tvg-id="Telecine.Pipoca.HD.br" tvg-name="Telecine Pipoca" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/tcpipoca.png",Telecine Pipoca
+#EXTINF:-1 tvg-id="Telecine.Pipoca.HD.br" tvg-name="Telecine Pipoca" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/tcp.png",Telecine Pipoca
 https://super-cdn.link/telecinepipoca/video.m3u8
 
-#EXTINF:-1 tvg-id="Telecine.Cult.HD.br" tvg-name="Telecine Cult" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/tccult.png",Telecine Cult
+#EXTINF:-1 tvg-id="Telecine.Cult.HD.br" tvg-name="Telecine Cult" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/tcc.png",Telecine Cult
 https://super-cdn.link/telecinecult/video.m3u8
 
-#EXTINF:-1 tvg-id="Telecine.Fun.HD.br" tvg-name="Telecine Fun" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/tcfun.png",Telecine Fun
+#EXTINF:-1 tvg-id="Telecine.Fun.HD.br" tvg-name="Telecine Fun" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/tcf.png",Telecine Fun
 https://super-cdn.link/telecinefun/video.m3u8
 
-#EXTINF:-1 tvg-id="Telecine.Touch.HD.br" tvg-name="Telecine Touch" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/tctouch.png",Telecine Touch
+#EXTINF:-1 tvg-id="Telecine.Touch.HD.br" tvg-name="Telecine Touch" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/tct.png",Telecine Touch
 https://super-cdn.link/telecinetouch/video.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/aee.webp",A&E
