@@ -6,46 +6,59 @@
 https://amg00353-lionsgatestudio-tratamentodechoque-runtimelatam-rmwee.amagi.tv/playlist/amg00353-lionsgatestudio-tratamentodechoque-runtimelatam/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="24h" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/cdd.webp",Caverna do Dragao
+#EXTVLCOPT:http-referrer=https://embedcanaistv.com/
 https://embedcanaistv.club/24h-cavernadodragao/video.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="24h" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/dbz.webp",Dragon Ball Z
+#EXTVLCOPT:http-referrer=https://embedcanaistv.com/
 https://embedcanaistv.club/24h-dragonballz/video.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="24h" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/simp.webp",Os Simpsons
+#EXTVLCOPT:http-referrer=https://embedcanaistv.com/
 https://embedcanaistv.club/24h-simpsons/video.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="24h" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/chaves.webp",Chaves
+#EXTVLCOPT:http-referrer=https://embedcanaistv.com/
 https://embedcanaistv.club/24h-chaves/video.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="24h" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/chapolin.webp",Chapolin
+#EXTVLCOPT:http-referrer=https://embedcanaistv.com/
 https://embedcanaistv.club/24h-chapolin/video.m3u8
 
 # Canais Abertos
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Abertos" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/band.png",Band
+#EXTVLCOPT:http-referrer=https://embedcanaistv.com/
 https://embedcanaistv.club/bandsp/video.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Abertos" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/globo.png",Globo
+#EXTVLCOPT:http-referrer=https://embedcanaistv.com/
 https://embedcanaistv.club/globomg/video.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Abertos" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/record.png",Record
+#EXTVLCOPT:http-referrer=https://embedcanaistv.com/
 https://embedcanaistv.club/recordmg/video.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Abertos" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/redetv.png",Rede TV
+#EXTVLCOPT:http-referrer=https://embedcanaistv.com/
 https://embedcanaistv.club/redetv/video.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Abertos" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/redevd.png",Rede Vida
+#EXTVLCOPT:http-referrer=https://embedcanaistv.com/
 https://embedcanaistv.club/redevida/video.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Abertos" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/sbt.png",SBT
+#EXTVLCOPT:http-referrer=https://embedcanaistv.com/
 https://embedcanaistv.club/sbtsp/video.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Abertos" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/tvcultura.png",TV Cultura
+#EXTVLCOPT:http-referrer=https://embedcanaistv.com/
 https://embedcanaistv.club/tvcultura/video.m3u8
 
 # Esportes
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/combate.png",Combate
+#EXTVLCOPT:http-referrer=https://embedcanaistv.com/
 https://embedcanaistv.club/combate/video.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/mavtvbr.webp",MAVTV Brasil
@@ -116,6 +129,7 @@ https://d9tard1jbwri9.cloudfront.net/playlist1080p.m3u8
 # Desenhos
 
 #EXTINF:-1 tvg-id="Cartoon.HD.br" tvg-name="Cartoonito" group-title="Desenhos" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/cnito.png",Cartoonito
+#EXTVLCOPT:http-referrer=https://embedcanaistv.com/
 https://embedcanaistv.club/cartoonito/video.m3u8
 
 #EXTINF:-1 tvg-id="Cartoon.HD.br" tvg-name="Cartoon" group-title="Desenhos" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/cn.webp",Cartoon Network
