@@ -278,10 +278,12 @@ https://super-cdn.link/tntnovelas/index.m3u8
 http://gohbhosting.xyz:8080/Xpluxkikivgfcgkiki/Solucao11/108
 
 #EXTINF:-1 tvg-id="Universal.TV.HD.br" tvg-name="Universal TV" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/universaltv.png",Universal Tv
-https://super-cdn.link/universaltv/index.m3u8
+#EXTVLCOPT:http-referrer=https://embedcanaistv.com/
+https://embedcanaistv.club/universaltv/video.m3u8
 
 #EXTINF:-1 tvg-id="Warner.HD.br" tvg-name="Warner" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/warner.png",Warner
-https://super-cdn.link/warnerchannel/index.m3u8
+#EXTVLCOPT:http-referrer=https://embedcanaistv.com/
+https://embedcanaistv.club/warner/video.m3u8
 
 # Musicas
 
