@@ -5,61 +5,33 @@
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="24h" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/tratamentodechoque.webp",Tratamento de Choque
 https://amg00353-lionsgatestudio-tratamentodechoque-runtimelatam-rmwee.amagi.tv/playlist/amg00353-lionsgatestudio-tratamentodechoque-runtimelatam/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24h" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/cdd.webp",Caverna do Dragao
-#EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://embedcanaistv.club/24h-cavernadodragao/video.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24h" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/dbz.png",Dragon Ball Z
-#EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://embedcanaistv.club/24h-dragonballz/video.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24h" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/simp.webp",Os Simpsons
-#EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://embedcanaistv.club/24h-simpsons/video.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24h" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/chvz.png",Chaves
-#EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://embedcanaistv.club/24h-chaves/video.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="24h" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/chp.png",Chapolin
-#EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://embedcanaistv.club/24h-chapolin/video.m3u8
-
 # Canais Abertos
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Abertos" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/band.png",Band
-#EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://embedcanaistv.club/bandsp/video.m3u8
+https://super-cdn.link/band/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Abertos" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/globo.png",Globo
-#EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://embedcanaistv.club/globomg/video.m3u8
+https://tv.fazoeli.co.za/m3u8/globorj.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Abertos" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/record.png",Record
-#EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://embedcanaistv.club/recordmg/video.m3u8
+https://super-cdn.link/record/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Abertos" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/redetv.png",Rede TV
-#EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://embedcanaistv.club/redetv/video.m3u8
+https://d1wwtskvr1r98k.cloudfront.net/out/v1/f61282790c1f4644ba906364b7d49d8d/index_3.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Abertos" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/redevd.png",Rede Vida
-#EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://embedcanaistv.club/redevida/video.m3u8
+https://d12e4o88jd8gex.cloudfront.net/out/v1/cea3de0b76ac4e82ab8ee0fd3f17ce12/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Abertos" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/sbt.png",SBT
-#EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://embedcanaistv.club/sbtsp/video.m3u8
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Abertos" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/tvcultura.png",TV Cultura
-#EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://embedcanaistv.club/tvcultura/video.m3u8
+https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
 
 # Esportes
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/combate.png",Combate
-#EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://embedcanaistv.club/combate/video.m3u8
+https://super-cdn.link/combate/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/mavtvbr.webp",MAVTV Brasil
 https://cc-panvcqnzkgrdl.akamaized.net/Sports7/Sports7_BR/Sports7.m3u8
@@ -129,8 +101,7 @@ https://d9tard1jbwri9.cloudfront.net/playlist1080p.m3u8
 # Desenhos
 
 #EXTINF:-1 tvg-id="Cartoon.HD.br" tvg-name="Cartoonito" group-title="Desenhos" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/cnito.png",Cartoonito
-#EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://embedcanaistv.club/cartoonito/video.m3u8
+https://super-cdn.link/cartoonito/index.m3u8
 
 #EXTINF:-1 tvg-id="Cartoon.HD.br" tvg-name="Cartoon" group-title="Desenhos" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/cn.webp",Cartoon Network
 https://super-cdn.link/cartoonnetwork/video.m3u8
@@ -188,8 +159,7 @@ https://super-cdn.link/comedycentral/index.m3u8
 https://super-cdn.link/gnt/index.m3u8
 
 #EXTINF:-1 tvg-id="Viva.HD.br" tvg-name="Viva" group-title="Diversos" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/viva.webp",VIVA
-#EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://embedcanaistv.club/viva/video.m3u8
+https://live-as-04-27.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtYXMtMDQtMjcudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzM2MTE4Nzg4LCJpYXQiOjE3MzYwMzIzODgsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiNjFlMTBhNmYtNDRhNi00MmQ5LThiMjEtMmQ1ZTkyOTc3NzdmIiwicGF0aCI6Ii9saXZlL2YoYk1pbj0yMDAwKS92aXZhMjRoYS9wbGF5bGlzdC5tM3U4In0.vMQiYToaAylLNjdh4xDoqnWRkoMk0mkNVJWdmPGihYLEW3Apg3blYE7K-ueHyrR-GFGdEzaedoI-X1Eqfl-e5KrlpBdgZZ-di5b7f1X4_AiwVxabrY2svmBDwQyQ6zOpYDKTjeC1sxzEpvj1GvbUVtkR6yICCJXuGG6SVikB7OrteX4BXtDZpFd8_MZoABjQI_fUJzxtdoUehrvq3yOxksvYnF3nqPinGXmBxkTLLoL0ByTVBRNX8UChLMzciGYJqi-dI6SSCifkdtBJchF3M-loNKoVTSWP7iBXtlqWdJXwwhvSg7FkVAye4UJdn9JxcAYyw-SOxcH75e4C76UroA/live/f(bMin=2000)/viva24ha/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Diversos" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/logo_tVEa6RS.png",Tv Pet
 https://isaocorp.cloudecast.com/tvmaispet/tracks-v1a1/mono.m3u8
@@ -278,12 +248,10 @@ https://super-cdn.link/tntnovelas/index.m3u8
 http://gohbhosting.xyz:8080/Xpluxkikivgfcgkiki/Solucao11/108
 
 #EXTINF:-1 tvg-id="Universal.TV.HD.br" tvg-name="Universal TV" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/universaltv.png",Universal Tv
-#EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://embedcanaistv.club/universaltv/video.m3u8
+https://super-cdn.link/universaltv/index.m3u8
 
 #EXTINF:-1 tvg-id="Warner.HD.br" tvg-name="Warner" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/warner.png",Warner
-#EXTVLCOPT:http-referrer=https://embedcanaistv.com/
-https://embedcanaistv.club/warner/video.m3u8
+https://super-cdn.link/warnerchannel/index.m3u8
 
 # Musicas
 
