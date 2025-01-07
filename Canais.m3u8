@@ -65,7 +65,7 @@ https://super-cdn.link/hboplus/video.m3u8
 #EXTINF:-1 tvg-id="HBO.Family.HD.br" tvg-name="HBO Family" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/hbofamily.webp",HBO Family
 https://super-cdn.link/hbofamily/video.m3u8
 
-#EXTINF:-1 tvg-id="HBO.Xtreme.HD.br" tvg-name="HBO Xtreme" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/hboxtreme.jpg",HBO Xtreme
+#EXTINF:-1 tvg-id="HBO.Xtreme.HD.br" tvg-name="HBO Xtreme" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/hbox.png",HBO Xtreme
 https://super-cdn.link/hboxtreme/video.m3u8
 
 #EXTINF:-1 tvg-id="Megapix.HD.br" tvg-name="Megapix" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/megapix.png",Megapix
