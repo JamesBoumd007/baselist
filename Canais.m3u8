@@ -59,6 +59,9 @@ https://super-cdn.link/hbo/video.m3u8
 #EXTINF:-1 tvg-id="HBO.2.HD.br" tvg-name="HBO2" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/hbo2.webp",HBO2
 https://super-cdn.link/hbo2/video.m3u8
 
+#EXTINF:-1 tvg-id="HBO.Mundi.HD.br" tvg-name="HBO Mundi" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/hbom.png",HBO Mundi
+http://dzcdn.vood.top:80/hls/18771_.m3u8
+
 #EXTINF:-1 tvg-id="HBO.Plus.HD.br" tvg-name="HBO Plus" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/hboplus.webp",HBO Plus
 https://super-cdn.link/hboplus/video.m3u8
 
