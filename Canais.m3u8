@@ -5,7 +5,7 @@
 #EXTINF:-1 tvg-id="Telecine.Action.HD.br" tvg-name="Telecine Action" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/tca.png",Telecine Action
 https://super-cdn.link/telecineaction/video.m3u8
 
-#EXTINF:-1 tvg-id="Telecine.HD.br" tvg-name="Telecine" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/tcpre.png",Telecine Premium
+#EXTINF:-1 tvg-id="Telecine.HD.br" tvg-name="Telecine Premium" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/tcpre.png",Telecine Premium
 https://super-cdn.link/telecinepremium/video.m3u8
 
 #EXTINF:-1 tvg-id="Telecine.Pipoca.HD.br" tvg-name="Telecine Pipoca" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/tcp.png",Telecine Pipoca
@@ -20,7 +20,7 @@ https://super-cdn.link/telecinefun/video.m3u8
 #EXTINF:-1 tvg-id="Telecine.Touch.HD.br" tvg-name="Telecine Touch" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/tct.png",Telecine Touch
 https://super-cdn.link/telecinetouch/video.m3u8
 
-#EXTINF:-1 tvg-id="A.and.E.HD.br" tvg-name="" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/aee.webp",A&E
+#EXTINF:-1 tvg-id="A.and.E.HD.br" tvg-name="A&E" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/aee.webp",A&E
 https://super-cdn.link/aee/video.m3u8
 
 #EXTINF:-1 tvg-id="AMC.br" tvg-name="AMC" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/amc.webp",AMC
