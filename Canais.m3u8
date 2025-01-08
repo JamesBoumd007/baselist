@@ -146,7 +146,25 @@ https://super-cdn.link/history2/index.m3u8
 
 # Musicas
 
-#EXTINF:-1 tvg-id="BIS.HD.br" tvg-name="Bis" group-title="Musicas" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/bis.png",Bis
+#EXTINF:-1 tvg-id="6047fbdbbb776a0007e7f2ff" tvg-name="MTV Biggest Pop" tvg-logo="https://images.pluto.tv/channels/6047fbdbbb776a0007e7f2ff/colorLogoPNG.png" group-title="Música", MTV Biggest Pop
+https://stitcher.pluto.tv/stitch/hls/channel/6047fbdbbb776a0007e7f2ff/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=43c0f938-cde6-11ef-9ecf-0e739464afa5
+
+#EXTINF:-1 tvg-id="66a01dcb8561260008b0a41d" tvg-name="MTV Classic" tvg-logo="https://images.pluto.tv/channels/66a01dcb8561260008b0a41d/colorLogoPNG.png" group-title="Música", MTV Classic
+https://stitcher.pluto.tv/stitch/hls/channel/66a01dcb8561260008b0a41d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=43c0f938-cde6-11ef-9ecf-0e739464afa5
+
+#EXTINF:-1 tvg-id="66a01e07d2d50d0008100d6a" tvg-name="MTV Rocks" tvg-logo="https://images.pluto.tv/channels/66a01e07d2d50d0008100d6a/colorLogoPNG.png" group-title="Música", MTV Rocks
+https://stitcher.pluto.tv/stitch/hls/channel/66a01e07d2d50d0008100d6a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=43c0f938-cde6-11ef-9ecf-0e739464afa5
+
+#EXTINF:-1 tvg-id="6047ff2e5e61cf000784e4da" tvg-name="MTV Spankin' New" tvg-logo="https://images.pluto.tv/channels/6047ff2e5e61cf000784e4da/colorLogoPNG.png" group-title="Música", MTV Spankin' New
+https://stitcher.pluto.tv/stitch/hls/channel/6047ff2e5e61cf000784e4da/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=43c0f938-cde6-11ef-9ecf-0e739464afa5
+
+#EXTINF:-1 tvg-id="62b219eed88ef00007403c2c" tvg-name="MTV Flow Latino" tvg-logo="https://images.pluto.tv/channels/62b219eed88ef00007403c2c/colorLogoPNG_1732662820597.png" group-title="Música", MTV Flow Latino
+https://stitcher.pluto.tv/stitch/hls/channel/62b219eed88ef00007403c2c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=43c0f938-cde6-11ef-9ecf-0e739464afa5
+
+#EXTINF:-1 tvg-id="66a01d84fe11e500084aefc1" tvg-name="Yo! MTV" tvg-logo="https://images.pluto.tv/channels/66a01d84fe11e500084aefc1/colorLogoPNG.png" group-title="Música", Yo! MTV
+https://stitcher.pluto.tv/stitch/hls/channel/66a01d84fe11e500084aefc1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=43c0f938-cde6-11ef-9ecf-0e739464afa5
+
+#EXTINF:-1 tvg-id="BIS.HD.br" tvg-name="Bis" group-title="Música" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/bis.png",Bis
 https://super-cdn.link/bis/index.m3u8
 
 # Diversos
