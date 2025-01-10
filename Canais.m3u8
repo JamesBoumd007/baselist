@@ -77,7 +77,7 @@ https://super-cdn.link/megapix/index.m3u8
 #EXTINF:-1 tvg-id="Studio.Universal.br" tvg-name="Studio Universal" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/studiouniversal.webp",Studio Universal
 https://super-cdn.link/studiouniversal/index.m3u8
 
-#EXTINF:-1 tvg-id="TNT.HD.br" tvg-name="TNT" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/tnt.webp",TNT
+#EXTINF:-1 tvg-id="TNT.HD.br;TNT HD.br" tvg-name="TNT" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/tnt.webp",TNT
 https://super-cdn.link/tnt/index.m3u8
 
 #EXTINF:-1 tvg-id="TNT.Novelas.br" tvg-name="TNT Novelas" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/tntn.png",TNT Novelas
