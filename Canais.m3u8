@@ -1,23 +1,23 @@
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_BR1.xml.gz"
+#EXTM3U url-tvg="https://www.open-epg.com/files/brazil1.xml.gz"
 
 # Filmes
 
-#EXTINF:-1 tvg-id="Telecine.Action.HD.br,Telecine Action.br" tvg-name="Telecine Action" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/tca.png",Telecine Action
+#EXTINF:-1 tvg-id="Telecine Action HD.br,Telecine Action.br" tvg-name="Telecine Action" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/tca.png",Telecine Action
 https://super-cdn.link/telecineaction/video.m3u8
 
-#EXTINF:-1 tvg-id="Telecine.HD.br" tvg-name="Telecine Premium" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/tcpre.png",Telecine Premium
+#EXTINF:-1 tvg-id="Telecine Premium HD.br" tvg-name="Telecine Premium" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/tcpre.png",Telecine Premium
 https://super-cdn.link/telecinepremium/video.m3u8
 
-#EXTINF:-1 tvg-id="Telecine.Pipoca.HD.br" tvg-name="Telecine Pipoca" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/tcp.png",Telecine Pipoca
+#EXTINF:-1 tvg-id="Telecine Pipoca HD.br" tvg-name="Telecine Pipoca" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/tcp.png",Telecine Pipoca
 https://super-cdn.link/telecinepipoca/video.m3u8
 
-#EXTINF:-1 tvg-id="Telecine.Cult.HD.br" tvg-name="Telecine Cult" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/tcc.png",Telecine Cult
+#EXTINF:-1 tvg-id="Telecine Cult HD.br" tvg-name="Telecine Cult" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/tcc.png",Telecine Cult
 https://super-cdn.link/telecinecult/video.m3u8
 
-#EXTINF:-1 tvg-id="Telecine.Fun.HD.br" tvg-name="Telecine Fun" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/tcf.png",Telecine Fun
+#EXTINF:-1 tvg-id="Telecine Fun HD.br" tvg-name="Telecine Fun" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/tcf.png",Telecine Fun
 https://super-cdn.link/telecinefun/video.m3u8
 
-#EXTINF:-1 tvg-id="Telecine.Touch.HD.br" tvg-name="Telecine Touch" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/tct.png",Telecine Touch
+#EXTINF:-1 tvg-id="Telecine Touch HD.br" tvg-name="Telecine Touch" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/tct.png",Telecine Touch
 https://super-cdn.link/telecinetouch/video.m3u8
 
 #EXTINF:-1 tvg-id="A.and.E.HD.br" tvg-name="A&E" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/aee.webp",A&E
