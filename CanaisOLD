@@ -199,7 +199,7 @@ https://embedcanaistv.site/animalplanet/video.m3u8
 #EXTINF:-1 tvg-id="Discovery.HD.br" tvg-name="Discovery" group-title="Documentarios" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/discovery.webp",Discovery Channel
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://super-cdn.link/discoverychannel/index.m3u8
+https://embedcanaistv.site/discoverychannel/video.m3u8
 
 #EXTINF:-1 tvg-id="Discovery.World.br" tvg-name="Discovery World" group-title="Documentarios" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/discoveryworld.png",Discovery World
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
@@ -248,17 +248,17 @@ https://super-cdn.link/bis/index.m3u8
 #EXTINF:-1 tvg-id="Comedy.Central.HD.br" tvg-name="Comedy Central" group-title="Diversos" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/cc.png",Comedy Central
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://super-cdn.link/comedycentral/index.m3u8
+https://embedcanaistv.site/comedycentral/video.m3u8
 
 #EXTINF:-1 tvg-id="GNT.HD.br" tvg-name="GNT" group-title="Diversos" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/gnt.png",GNT
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://super-cdn.link/gnt/index.m3u8
+https://embedcanaistv.site/gnt/video.m3u8
 
 #EXTINF:-1 tvg-id="Viva.HD.br" tvg-name="Viva" group-title="Diversos" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/viva.webp",VIVA
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://live-as-04-27.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtYXMtMDQtMjcudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzM2MTE4Nzg4LCJpYXQiOjE3MzYwMzIzODgsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiNjFlMTBhNmYtNDRhNi00MmQ5LThiMjEtMmQ1ZTkyOTc3NzdmIiwicGF0aCI6Ii9saXZlL2YoYk1pbj0yMDAwKS92aXZhMjRoYS9wbGF5bGlzdC5tM3U4In0.vMQiYToaAylLNjdh4xDoqnWRkoMk0mkNVJWdmPGihYLEW3Apg3blYE7K-ueHyrR-GFGdEzaedoI-X1Eqfl-e5KrlpBdgZZ-di5b7f1X4_AiwVxabrY2svmBDwQyQ6zOpYDKTjeC1sxzEpvj1GvbUVtkR6yICCJXuGG6SVikB7OrteX4BXtDZpFd8_MZoABjQI_fUJzxtdoUehrvq3yOxksvYnF3nqPinGXmBxkTLLoL0ByTVBRNX8UChLMzciGYJqi-dI6SSCifkdtBJchF3M-loNKoVTSWP7iBXtlqWdJXwwhvSg7FkVAye4UJdn9JxcAYyw-SOxcH75e4C76UroA/live/f(bMin=2000)/viva24ha/playlist.m3u8
+https://embedcanaistv.site/viva/video.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Diversos" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/logo_tVEa6RS.png",Tv Pet
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
@@ -270,7 +270,7 @@ https://isaocorp.cloudecast.com/tvmaispet/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="CNN.Brasil.HD.br" tvg-name="CNN Brasil" group-title="Jornalismo" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/cnn.webp",CNN Brasil
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
+https://embedcanaistv.site/cnnbrasil/video.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Jornalismo" tvg-logo="https://images.pluto.tv/channels/645a99282858cb0008ea8378/colorLogoPNG.png",New Brasil
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
@@ -280,44 +280,44 @@ https://cc-7pakstinpyajo.akamaized.net/playlist1080p.m3u8
 #EXTINF:-1 tvg-id="Jovem.Pan.News.br" tvg-name="Jovem Pan News" group-title="Jornalismo" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/jpnews.webp",JP News
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://d9tard1jbwri9.cloudfront.net/playlist1080p.m3u8
+https://embedcanaistv.site/jovempannews/video.m3u8
 
 # Canais Abertos
 
 #EXTINF:-1 tvg-id="Band.br" tvg-name="" group-title="Abertos" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/band.png",Band
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://super-cdn.link/band/index.m3u8
+https://embedcanaistv.site/bandsp/video.m3u8
 
 #EXTINF:-1 tvg-id="GLOBO.br" tvg-name="" group-title="Abertos" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/globo.png",Globo
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://tv.fazoeli.co.za/m3u8/globorj.m3u8
+https://embedcanaistv.site/globomg/video.m3u8
 
 #EXTINF:-1 tvg-id="Record.br" tvg-name="" group-title="Abertos" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/record.png",Record
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://super-cdn.link/record/index.m3u8
+https://embedcanaistv.site/recordmg/video.m3u8
 
 #EXTINF:-1 tvg-id="REDETV.HD.br" tvg-name="" group-title="Abertos" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/redetv.png",Rede TV
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://d1wwtskvr1r98k.cloudfront.net/out/v1/f61282790c1f4644ba906364b7d49d8d/index_3.m3u8
+https://embedcanaistv.site/redetv/video.m3u8
 
 #EXTINF:-1 tvg-id="Rede.Vida.HD.br" tvg-name="" group-title="Abertos" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/redevd.png",Rede Vida
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://d12e4o88jd8gex.cloudfront.net/out/v1/cea3de0b76ac4e82ab8ee0fd3f17ce12/index.m3u8
+https://embedcanaistv.site/redevida/video.m3u8
 
 #EXTINF:-1 tvg-id="SBT.br" tvg-name="" group-title="Abertos" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/sbt.png",SBT
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
+https://embedcanaistv.site/sbtsp/video.m3u8
 
 #EXTINF:-1 tvg-id="Cultura.HD.br" tvg-name="" group-title="Abertos" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/tvcultura.png",Cultura
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
+https://embedcanaistv.site/tvcultura/video.m3u8
 
 # 24h
 
@@ -329,7 +329,7 @@ https://amg00353-lionsgatestudio-tratamentodechoque-runtimelatam-rmwee.amagi.tv/
 #EXTINF:-1 tvg-id="Combate.HD.br" tvg-name="" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/combate.png",Combate
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://super-cdn.link/combate/index.m3u8
+https://embedcanaistv.site/combate/video.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/mavtvbr.webp",MAVTV Brasil
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
@@ -339,86 +339,86 @@ https://cc-panvcqnzkgrdl.akamaized.net/Sports7/Sports7_BR/Sports7.m3u8
 #EXTINF:-1 tvg-id="ESPN.br" tvg-name="ESPN" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/espn.webp",ESPN
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-http://hzcdn.vood.top:80/hls/309458_.m3u8
+https://embedcanaistv.site/espn/video.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.2.br" tvg-name="ESPN 2" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/espn.webp",ESPN 2
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://super-cdn.link/espn2/index.m3u8
+https://embedcanaistv.site/espn2/video.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.3.br" tvg-name="ESPN 3" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/espn.webp",ESPN 3
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://super-cdn.link/espn3/index.m3u8
+https://embedcanaistv.site/espn3/video.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.4.br" tvg-name="ESPN 4" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/espn.webp",ESPN 4
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://super-cdn.link/espn4/index.m3u8
+https://embedcanaistv.site/espn4/video.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 5" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/espn.webp",ESPN 5
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://super-cdn.link/espn5/index.m3u8
+https://embedcanaistv.site/espn5/video.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 6" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/espn.webp",ESPN 6
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://super-cdn.link/espn6/index.m3u8
+https://embedcanaistv.site/espn6/video.m3u8
 
 #EXTINF:-1 tvg-id="Bandsports.HD.br" tvg-name="Band Sports" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/bandsports.png",Band Sports
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-http://dzcdn.vood.top/hls/232_.m3u8
+https://embedcanaistv.site/bandsports/video.m3u8
 
 #EXTINF:-1 tvg-id="Sportv.br" tvg-name="Sportv" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/sportv.png",Sportv
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://super-cdn.link/sportv/index.m3u8
+https://embedcanaistv.site/sportv/video.m3u8
 
 #EXTINF:-1 tvg-id="SporTV.2.br" tvg-name="SporTV 2" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/sportv2.png",Sportv 2
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://super-cdn.link/sportv2/index.m3u8
+https://embedcanaistv.site/sportv2/video.m3u8
 
 #EXTINF:-1 tvg-id="SporTV.3.br" tvg-name="SporTV 3" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/sportv3.png",Sportv 3
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://super-cdn.link/sportv3/index.m3u8
+https://embedcanaistv.site/sportv3/video.m3u8
 
 #EXTINF:-1 tvg-id="Premiere.HD.br" tvg-name="Premiere" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/pfc.png",Premiere Clubes
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://super-cdn.link/premiereclubes/index.m3u8
+https://embedcanaistv.site/premiereclubes/video.m3u8
 
 #EXTINF:-1 tvg-id="Premiere.HD2.br" tvg-name="Premiere 2" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/pfc.png",Premiere 2
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://super-cdn.link/premiere2/index.m3u8
+https://embedcanaistv.site/premiere2/video.m3u8
 
 #EXTINF:-1 tvg-id="Premiere.HD.3.br" tvg-name="Premiere 3" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/pfc.png",Premiere 3
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://super-cdn.link/premiere3/index.m3u8
+https://embedcanaistv.site/premiere3/video.m3u8
 
 #EXTINF:-1 tvg-id="Premiere.HD.4.br" tvg-name="Premiere 4" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/pfc.png",Premiere 4
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://super-cdn.link/premiere4/index.m3u8
+https://embedcanaistv.site/premiere4/video.m3u8
 
 #EXTINF:-1 tvg-id="Premiere.HD.5.br" tvg-name="Premiere 5" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/pfc.png",Premiere 5
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://super-cdn.link/premiere5/index.m3u8
+https://embedcanaistv.site/premiere5/video.m3u8
 
 #EXTINF:-1 tvg-id="Premiere.HD6.br" tvg-name="Premiere 6" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/pfc.png",Premiere 6
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://super-cdn.link/premiere6/index.m3u8
+https://embedcanaistv.site/premiere6/video.m3u8
 
 #EXTINF:-1 tvg-id="Premiere.HD7.br" tvg-name="Premiere 7" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/pfc.png",Premiere 7
 #EXTVLCOPT:http-referrer=https://embedcanaistv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://super-cdn.link/premiere7/index.m3u8
+https://embedcanaistv.site/premiere7/video.m3u8
 
 # +18
