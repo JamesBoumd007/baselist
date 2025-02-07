@@ -1,402 +1,264 @@
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_BR1.xml.gz"
 
-#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV 4K" tvg-logo="http://storage4you.net:2095/logoscanais/SPORTV.png" group-title="Canais | 4K",SPORTV 4K
-http://15110166167.com:80/327425510/B297D7783q/284576
-#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="Premiere Clubes 4K " tvg-logo="http://storage4you.net:2095/logoscanais/PREMIERE.png" group-title="Canais | 4K",Premiere Clubes 4K 
-http://15110166167.com:80/327425510/B297D7783q/284578
-#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="Premiere 2 4K " tvg-logo="http://storage4you.net:2095/logoscanais/PREMIERE.png" group-title="Canais | 4K",Premiere 2 4K 
-http://15110166167.com:80/327425510/B297D7783q/284579
-#EXTINF:-1 tvg-id="Espn3.br" tvg-name="ESPN3 4K " tvg-logo="http://storage4you.net:2095/logoscanais/ESPN.png" group-title="Canais | 4K",ESPN3 4K 
-http://15110166167.com:80/327425510/B297D7783q/284580
-#EXTINF:-1 tvg-id="Espn4.br" tvg-name="ESPN4 4K " tvg-logo="http://storage4you.net:2095/logoscanais/ESPN.png" group-title="Canais | 4K",ESPN4 4K 
-http://15110166167.com:80/327425510/B297D7783q/284581
-#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 4K " tvg-logo="http://storage4you.net:2095/logoscanais/FOXSPORTS.png" group-title="Canais | 4K",FOX SPORTS 4K 
-http://15110166167.com:80/327425510/B297D7783q/284582
-#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX Sports 2 4K" tvg-logo="http://storage4you.net:2095/logoscanais/FOXSPORTS.png" group-title="Canais | 4K",FOX Sports 2 4K
-http://15110166167.com:80/327425510/B297D7783q/284583
-#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="ESPN 4K " tvg-logo="http://storage4you.net:2095/logoscanais/ESPN.png" group-title="Canais | 4K",ESPN 4K 
-http://15110166167.com:80/327425510/B297D7783q/284584
-#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN Extra 4K " tvg-logo="http://storage4you.net:2095/logoscanais/ESPN.png" group-title="Canais | 4K",ESPN Extra 4K 
-http://15110166167.com:80/327425510/B297D7783q/284585
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP 4K" tvg-logo="http://storage4you.net:2095/logoscanais/GLOBO.png" group-title="Canais | 4K",GLOBO SP 4K
-http://15110166167.com:80/327425510/B297D7783q/284587
-#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GloboNews 4K " tvg-logo="http://storage4you.net:2095/logoscanais/GLOBONEWS.png" group-title="Canais | 4K",GloboNews 4K 
-http://15110166167.com:80/327425510/B297D7783q/284589
-#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="BAND SP 4K " tvg-logo="http://storage4you.net:2095/logoscanais/BAND.png" group-title="Canais | 4K",BAND SP 4K 
-http://15110166167.com:80/327425510/B297D7783q/284590
-#EXTINF:-1 tvg-id="Cnn.br" tvg-name="CNN Brasil 4K " tvg-logo="http://storage4you.net:2095/logoscanais/CNNBRASIL.png" group-title="Canais | 4K",CNN Brasil 4K 
-http://15110166167.com:80/327425510/B297D7783q/284591
-#EXTINF:-1 tvg-id="Cnnbrasil.br" tvg-name="Jovem Pan News 4K " tvg-logo="http://media.jovempan.com.br/uploads/2018/07/JPNews-imagem-pagina-e1530887165749.png" group-title="Canais | 4K",Jovem Pan News 4K 
-http://15110166167.com:80/327425510/B297D7783q/284593
-#EXTINF:-1 tvg-id="Universaltv.br" tvg-name="Universal TV 4K " tvg-logo="http://storage4you.net:2095/logoscanais/UNIVERSALTV.png" group-title="Canais | 4K",Universal TV 4K 
-http://15110166167.com:80/327425510/B297D7783q/284596
-#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="Telecine Action 4K " tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png" group-title="Canais | 4K",Telecine Action 4K 
-http://15110166167.com:80/327425510/B297D7783q/284597
-#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="Telecine Pipoca 4K" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png" group-title="Canais | 4K",Telecine Pipoca 4K
-http://15110166167.com:80/327425510/B297D7783q/284598
-#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="Telecine Premium 4K " tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png" group-title="Canais | 4K",Telecine Premium 4K 
-http://15110166167.com:80/327425510/B297D7783q/284599
-#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN 4K" tvg-logo="http://storage4you.net:2095/logoscanais/AXN.png" group-title="Canais | 4K",AXN 4K
-http://15110166167.com:80/327425510/B297D7783q/284601
-#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC  4K " tvg-logo="http://storage4you.net:2095/logoscanais/AMC.png" group-title="Canais | 4K",AMC  4K 
-http://15110166167.com:80/327425510/B297D7783q/284602
-#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO 4K " tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png" group-title="Canais | 4K",HBO 4K 
-http://15110166167.com:80/327425510/B297D7783q/284603
-#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="Disc. Home &  Health 4K " tvg-logo="http://storage4you.net:2095/logoscanais/DISCOVERYHOME&HEALTH.png" group-title="Canais | 4K",Disc. Home &  Health 4K 
-http://15110166167.com:80/327425510/B297D7783q/284604
-#EXTINF:-1 tvg-id="Discovery.br" tvg-name="Disc. Channe 4K " tvg-logo="http://storage4you.net:2095/logoscanais/DISCOVERYCHANNEL.png" group-title="Canais | 4K",Disc. Channe 4K 
-http://15110166167.com:80/327425510/B297D7783q/284605
-#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="Animal Planet 4K " tvg-logo="http://storage4you.net:2095/logoscanais/ANIMALPLANET.png" group-title="Canais | 4K",Animal Planet 4K 
-http://15110166167.com:80/327425510/B297D7783q/284607
-#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="Cartoon Network 4K" tvg-logo="http://storage4you.net:2095/logoscanais/CARTOONNETWORK.png" group-title="Canais | 4K",Cartoon Network 4K
-http://15110166167.com:80/327425510/B297D7783q/284611
-#EXTINF:-1 tvg-id="Star.br" tvg-name="Star Channel 4K" tvg-logo="http://storage4you.net:2095/logoscanais/STARCHANNEL.png" group-title="Canais | 4K",Star Channel 4K
-http://15110166167.com:80/327425510/B297D7783q/284612
-#EXTINF:-1 tvg-id="Curta.br" tvg-name="Curta! 4K" tvg-logo="http://storage4you.net:2095/logoscanais/CURTA!.jpg" group-title="Canais | 4K",Curta! 4K
-http://15110166167.com:80/327425510/B297D7783q/284614
-#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="Disc. Home &  Health" tvg-logo="http://storage4you.net:2095/logoscanais/DISCOVERYHOME&HEALTH.png" group-title="Canais | 4K",Disc. Home &  Health
-http://15110166167.com:80/327425510/B297D7783q/284615
-#EXTINF:-1 tvg-id="Viva.br" tvg-name="Viva 4K" tvg-logo="http://storage4you.net:2095/logoscanais/VIVA.png" group-title="Canais | 4K",Viva 4K
-http://15110166167.com:80/327425510/B297D7783q/284616
-#EXTINF:-1 tvg-id="Tntseries.br" tvg-name="TNT Series 4K" tvg-logo="http://storage4you.net:2095/logoscanais/TNTSERIES.png" group-title="Canais | 4K",TNT Series 4K
-http://15110166167.com:80/327425510/B297D7783q/284617
-#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="Disc. Turbo 4K" tvg-logo="http://storage4you.net:2095/logoscanais/DISCOVERYTURBO.png" group-title="Canais | 4K",Disc. Turbo 4K
-http://15110166167.com:80/327425510/B297D7783q/284618
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E FHD" tvg-logo="http://storage4you.net:2095/logoscanais/A&E.png" group-title="Canais | Filmes & Series",A&E FHD
-http://15110166167.com:80/327425510/B297D7783q/666
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E UHD" tvg-logo="http://storage4you.net:2095/logoscanais/A&E.png" group-title="Canais | Filmes & Series",A&E UHD
-http://15110166167.com:80/327425510/B297D7783q/21292
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HD" tvg-logo="http://storage4you.net:2095/logoscanais/A&E.png" group-title="Canais | Filmes & Series",A&E HD
-http://15110166167.com:80/327425510/B297D7783q/664
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HD²" tvg-logo="http://storage4you.net:2095/logoscanais/A&E.png" group-title="Canais | Filmes & Series",A&E HD²
-http://15110166167.com:80/327425510/B297D7783q/665
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E SD" tvg-logo="http://storage4you.net:2095/logoscanais/A&E.png" group-title="Canais | Filmes & Series",A&E SD
-http://15110166167.com:80/327425510/B297D7783q/663
-#EXTINF:-1 tvg-id="Agromais.br" tvg-name="AgroMais FHD" tvg-logo="http://storage4you.net:2095/logoscanais/AGROMAIS.png" group-title="Canais | Noticias",AgroMais FHD
-http://15110166167.com:80/327425510/B297D7783q/464
-#EXTINF:-1 tvg-id="Agromais.br" tvg-name="AgroMais HD" tvg-logo="http://storage4you.net:2095/logoscanais/AGROMAIS.png" group-title="Canais | Noticias",AgroMais HD
-http://15110166167.com:80/327425510/B297D7783q/462
-#EXTINF:-1 tvg-id="Agromais.br" tvg-name="AgroMais SD" tvg-logo="http://storage4you.net:2095/logoscanais/AGROMAIS.png" group-title="Canais | Noticias",AgroMais SD
-http://15110166167.com:80/327425510/B297D7783q/461
-#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="Animal Planet FHD" tvg-logo="http://storage4you.net:2095/logoscanais/ANIMALPLANET.png" group-title="Canais | Documentarios",Animal Planet FHD
-http://15110166167.com:80/327425510/B297D7783q/2602
-#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="Animal Planet H265" tvg-logo="http://storage4you.net:2095/logoscanais/ANIMALPLANET.png" group-title="Canais | Documentarios",Animal Planet H265
-http://15110166167.com:80/327425510/B297D7783q/141261
-#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="Animal Planet UHD" tvg-logo="http://storage4you.net:2095/logoscanais/ANIMALPLANET.png" group-title="Canais | Documentarios",Animal Planet UHD
-http://15110166167.com:80/327425510/B297D7783q/22305
-#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="Animal Planet HD" tvg-logo="http://storage4you.net:2095/logoscanais/ANIMALPLANET.png" group-title="Canais | Documentarios",Animal Planet HD
-http://15110166167.com:80/327425510/B297D7783q/365234
-#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="Animal Planet HD²" tvg-logo="http://storage4you.net:2095/logoscanais/ANIMALPLANET.png" group-title="Canais | Documentarios",Animal Planet HD²
-http://15110166167.com:80/327425510/B297D7783q/2601
-#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="Animal Planet SD" tvg-logo="http://storage4you.net:2095/logoscanais/ANIMALPLANET.png" group-title="Canais | Documentarios",Animal Planet SD
-http://15110166167.com:80/327425510/B297D7783q/365235
-#EXTINF:-1 tvg-id="Arte1.br" tvg-name="Arte 1 FHD" tvg-logo="http://storage4you.net:2095/logoscanais/ARTE1.png" group-title="Canais | Documentarios",Arte 1 FHD
-http://15110166167.com:80/327425510/B297D7783q/2607
-#EXTINF:-1 tvg-id="Arte1.br" tvg-name="Arte 1 H265" tvg-logo="http://storage4you.net:2095/logoscanais/ARTE1.png" group-title="Canais | Documentarios",Arte 1 H265
-http://15110166167.com:80/327425510/B297D7783q/141262
-#EXTINF:-1 tvg-id="Arte1.br" tvg-name="Arte 1 UHD" tvg-logo="http://storage4you.net:2095/logoscanais/ARTE1.png" group-title="Canais | Documentarios",Arte 1 UHD
-http://15110166167.com:80/327425510/B297D7783q/21222
-#EXTINF:-1 tvg-id="Arte1.br" tvg-name="Arte 1 HD" tvg-logo="http://storage4you.net:2095/logoscanais/ARTE1.png" group-title="Canais | Documentarios",Arte 1 HD
-http://15110166167.com:80/327425510/B297D7783q/367046
-#EXTINF:-1 tvg-id="Arte1.br" tvg-name="Arte 1 HD²" tvg-logo="http://storage4you.net:2095/logoscanais/ARTE1.png" group-title="Canais | Documentarios",Arte 1 HD²
-http://15110166167.com:80/327425510/B297D7783q/2606
-#EXTINF:-1 tvg-id="Arte1.br" tvg-name="Arte 1 SD " tvg-logo="http://storage4you.net:2095/logoscanais/ARTE1.png" group-title="Canais | Documentarios",Arte 1 SD 
-http://15110166167.com:80/327425510/B297D7783q/367047
-#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN FHD" tvg-logo="http://storage4you.net:2095/logoscanais/AXN.png" group-title="Canais | Filmes & Series",AXN FHD
-http://15110166167.com:80/327425510/B297D7783q/676
-#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN UHD" tvg-logo="http://storage4you.net:2095/logoscanais/AXN.png" group-title="Canais | Filmes & Series",AXN UHD
-http://15110166167.com:80/327425510/B297D7783q/21223
-#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN HD" tvg-logo="http://storage4you.net:2095/logoscanais/AXN.png" group-title="Canais | Filmes & Series",AXN HD
-http://15110166167.com:80/327425510/B297D7783q/674
-#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN HD²" tvg-logo="http://storage4you.net:2095/logoscanais/AXN.png" group-title="Canais | Filmes & Series",AXN HD²
-http://15110166167.com:80/327425510/B297D7783q/675
-#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN SD" tvg-logo="http://storage4you.net:2095/logoscanais/AXN.png" group-title="Canais | Filmes & Series",AXN SD
-http://15110166167.com:80/327425510/B297D7783q/673
-#EXTINF:-1 tvg-id="Sony.br" tvg-name="Canal Sony FHD" tvg-logo="http://storage4you.net:2095/logoscanais/SONYCHANNEL.png" group-title="Canais | Filmes & Series",Canal Sony FHD
-http://15110166167.com:80/327425510/B297D7783q/702
-#EXTINF:-1 tvg-id="Sony.br" tvg-name="Canal Sony UHD" tvg-logo="http://storage4you.net:2095/logoscanais/SONYCHANNEL.png" group-title="Canais | Filmes & Series",Canal Sony UHD
-http://15110166167.com:80/327425510/B297D7783q/21229
-#EXTINF:-1 tvg-id="Sony.br" tvg-name="Canal Sony HD" tvg-logo="http://storage4you.net:2095/logoscanais/SONYCHANNEL.png" group-title="Canais | Filmes & Series",Canal Sony HD
-http://15110166167.com:80/327425510/B297D7783q/700
-#EXTINF:-1 tvg-id="Sony.br" tvg-name="Canal Sony HD²" tvg-logo="http://storage4you.net:2095/logoscanais/SONYCHANNEL.png" group-title="Canais | Filmes & Series",Canal Sony HD²
-http://15110166167.com:80/327425510/B297D7783q/701
-#EXTINF:-1 tvg-id="Sony.br" tvg-name="Canal Sony SD" tvg-logo="http://storage4you.net:2095/logoscanais/SONYCHANNEL.png" group-title="Canais | Filmes & Series",Canal Sony SD
-http://15110166167.com:80/327425510/B297D7783q/699
-#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="Cartoon Network FHD" tvg-logo="http://storage4you.net:2095/logoscanais/CARTOONNETWORK.png" group-title="Canais | Infantil",Cartoon Network FHD
-http://15110166167.com:80/327425510/B297D7783q/352
-#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="Cartoon Network UHD" tvg-logo="http://storage4you.net:2095/logoscanais/CARTOONNETWORK.png" group-title="Canais | Infantil",Cartoon Network UHD
-http://15110166167.com:80/327425510/B297D7783q/21230
-#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="Cartoon Network HD" tvg-logo="http://storage4you.net:2095/logoscanais/CARTOONNETWORK.png" group-title="Canais | Infantil",Cartoon Network HD
-http://15110166167.com:80/327425510/B297D7783q/351
-#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="Cartoon Network HD²" tvg-logo="http://storage4you.net:2095/logoscanais/CARTOONNETWORK.png" group-title="Canais | Infantil",Cartoon Network HD²
-http://15110166167.com:80/327425510/B297D7783q/367317
-#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="Cartoon Network SD" tvg-logo="http://storage4you.net:2095/logoscanais/CARTOONNETWORK.png" group-title="Canais | Infantil",Cartoon Network SD
-http://15110166167.com:80/327425510/B297D7783q/350
-#EXTINF:-1 tvg-id="Cartoonito.br" tvg-name="Cartoonito FHD" tvg-logo="http://storage4you.net:2095/logoscanais/CARTOONITO.png" group-title="Canais | Infantil",Cartoonito FHD
-http://15110166167.com:80/327425510/B297D7783q/110683
-#EXTINF:-1 tvg-id="Cartoonito.br" tvg-name="Cartoonito UHD" tvg-logo="http://storage4you.net:2095/logoscanais/CARTOONITO.png" group-title="Canais | Infantil",Cartoonito UHD
-http://15110166167.com:80/327425510/B297D7783q/368110
-#EXTINF:-1 tvg-id="Cartoonito.br" tvg-name="Cartoonito HD" tvg-logo="http://storage4you.net:2095/logoscanais/CARTOONITO.png" group-title="Canais | Infantil",Cartoonito HD
-http://15110166167.com:80/327425510/B297D7783q/110684
-#EXTINF:-1 tvg-id="Cartoonito.br" tvg-name="Cartoonito HD²" tvg-logo="http://storage4you.net:2095/logoscanais/CARTOONITO.png" group-title="Canais | Infantil",Cartoonito HD²
-http://15110166167.com:80/327425510/B297D7783q/368111
-#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="Cinemax FHD" tvg-logo="http://storage4you.net:2095/logoscanais/CINEMAX.png" group-title="Canais | Filmes & Series",Cinemax FHD
-http://15110166167.com:80/327425510/B297D7783q/682
-#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="Cinemax UHD" tvg-logo="http://storage4you.net:2095/logoscanais/CINEMAX.png" group-title="Canais | Filmes & Series",Cinemax UHD
-http://15110166167.com:80/327425510/B297D7783q/21231
-#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="Cinemax HD" tvg-logo="http://storage4you.net:2095/logoscanais/CINEMAX.png" group-title="Canais | Filmes & Series",Cinemax HD
-http://15110166167.com:80/327425510/B297D7783q/680
-#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="Cinemax HD²" tvg-logo="http://storage4you.net:2095/logoscanais/CINEMAX.png" group-title="Canais | Filmes & Series",Cinemax HD²
-http://15110166167.com:80/327425510/B297D7783q/681
-#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="Cinemax SD" tvg-logo="http://storage4you.net:2095/logoscanais/CINEMAX.png" group-title="Canais | Filmes & Series",Cinemax SD
-http://15110166167.com:80/327425510/B297D7783q/679
-http://15110166167.com:80/327425510/B297D7783q/477
-#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO + FHD" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO + FHD
-http://15110166167.com:80/327425510/B297D7783q/18763
-#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO + UHD" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO + UHD
-http://15110166167.com:80/327425510/B297D7783q/21249
-#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO + HD" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO + HD
-http://15110166167.com:80/327425510/B297D7783q/18764
-#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO + HD²" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO + HD²
-http://15110166167.com:80/327425510/B297D7783q/18765
-#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO +SD" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO +SD
-http://15110166167.com:80/327425510/B297D7783q/18766
-#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 FHD" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO 2 FHD
-http://15110166167.com:80/327425510/B297D7783q/18755
-#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 UHD" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO 2 UHD
-http://15110166167.com:80/327425510/B297D7783q/21246
-#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 HD" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO 2 HD
-http://15110166167.com:80/327425510/B297D7783q/18756
-#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 HD²" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO 2 HD²
-http://15110166167.com:80/327425510/B297D7783q/18757
-#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 SD" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO 2 SD
-http://15110166167.com:80/327425510/B297D7783q/18758
-#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY FHD" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO FAMILY FHD
-http://15110166167.com:80/327425510/B297D7783q/18759
-#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY UHD" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO FAMILY UHD
-http://15110166167.com:80/327425510/B297D7783q/21247
-#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY HD" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO FAMILY HD
-http://15110166167.com:80/327425510/B297D7783q/18760
-#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY HD²" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO FAMILY HD²
-http://15110166167.com:80/327425510/B297D7783q/18761
-#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY SD" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO FAMILY SD
-http://15110166167.com:80/327425510/B297D7783q/18762
-#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO FHD" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO FHD
-http://15110166167.com:80/327425510/B297D7783q/18751
-#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO H265" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO H265
-http://15110166167.com:80/327425510/B297D7783q/121578
-#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO UHD" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO UHD
-http://15110166167.com:80/327425510/B297D7783q/21248
-#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO HD" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO HD
-http://15110166167.com:80/327425510/B297D7783q/18752
-#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO HD²" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO HD²
-http://15110166167.com:80/327425510/B297D7783q/18753
-#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO SD" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO SD
-http://15110166167.com:80/327425510/B297D7783q/18754
-#EXTINF:-1 tvg-id="Hbomundi.br" tvg-name="HBO MUNDI FHD" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO MUNDI FHD
-http://15110166167.com:80/327425510/B297D7783q/18771
-#EXTINF:-1 tvg-id="Hbomundi.br" tvg-name="HBO MUNDI UHD" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO MUNDI UHD
-http://15110166167.com:80/327425510/B297D7783q/21254
-#EXTINF:-1 tvg-id="Hbomundi.br" tvg-name="HBO MUNDI HD" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO MUNDI HD
-http://15110166167.com:80/327425510/B297D7783q/18772
-#EXTINF:-1 tvg-id="Hbomundi.br" tvg-name="HBO MUNDI HD²" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO MUNDI HD²
-http://15110166167.com:80/327425510/B297D7783q/18773
-#EXTINF:-1 tvg-id="Hbomundi.br" tvg-name="HBO MUNDI SD" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO MUNDI SD
-http://15110166167.com:80/327425510/B297D7783q/18774
-#EXTINF:-1 tvg-id="Hbopop.br" tvg-name="HBO POP FHD" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO POP FHD
-http://15110166167.com:80/327425510/B297D7783q/18779
-#EXTINF:-1 tvg-id="Hbopop.br" tvg-name="HBO POP UHD" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO POP UHD
-http://15110166167.com:80/327425510/B297D7783q/21256
-#EXTINF:-1 tvg-id="Hbopop.br" tvg-name="HBO POP HD" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO POP HD
-http://15110166167.com:80/327425510/B297D7783q/18780
-#EXTINF:-1 tvg-id="Hbopop.br" tvg-name="HBO POP HD²" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO POP HD²
-http://15110166167.com:80/327425510/B297D7783q/18781
-#EXTINF:-1 tvg-id="Hbopop.br" tvg-name="HBO POP SD" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO POP SD
-http://15110166167.com:80/327425510/B297D7783q/18782
-#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE FHD" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO SIGNATURE FHD
-http://15110166167.com:80/327425510/B297D7783q/18767
-#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE UHD" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO SIGNATURE UHD
-http://15110166167.com:80/327425510/B297D7783q/21250
-#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE HD" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO SIGNATURE HD
-http://15110166167.com:80/327425510/B297D7783q/18768
-#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE HD²" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO SIGNATURE HD²
-http://15110166167.com:80/327425510/B297D7783q/18769
-#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE SD" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO SIGNATURE SD
-http://15110166167.com:80/327425510/B297D7783q/18770
-#EXTINF:-1 tvg-id="Hboxtreme.br" tvg-name="HBO XTREME FHD" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO XTREME FHD
-http://15110166167.com:80/327425510/B297D7783q/18775
-#EXTINF:-1 tvg-id="Hboxtreme.br" tvg-name="HBO XTREME UHD" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO XTREME UHD
-http://15110166167.com:80/327425510/B297D7783q/21255
-#EXTINF:-1 tvg-id="Hboxtreme.br" tvg-name="HBO XTREME HD" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO XTREME HD
-http://15110166167.com:80/327425510/B297D7783q/18776
-#EXTINF:-1 tvg-id="Hboxtreme.br" tvg-name="HBO XTREME HD²" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO XTREME HD²
-http://15110166167.com:80/327425510/B297D7783q/18777
-#EXTINF:-1 tvg-id="Hboxtreme.br" tvg-name="HBO XTREME SD" tvg-logo="http://storage4you.net:2095/logoscanais/HBO.png" group-title="Canais | HBO",HBO XTREME SD
-http://15110166167.com:80/327425510/B297D7783q/18778
-#EXTINF:-1 tvg-id="Hgtv.br" tvg-name="HGTV FHD" tvg-logo="http://storage4you.net:2095/logoscanais/HGTV.png" group-title="Canais | Documentarios",HGTV FHD
-http://15110166167.com:80/327425510/B297D7783q/2627
-#EXTINF:-1 tvg-id="Hgtv.br" tvg-name="HGTV H265" tvg-logo="http://storage4you.net:2095/logoscanais/HGTV.png" group-title="Canais | Documentarios",HGTV H265
-http://15110166167.com:80/327425510/B297D7783q/141266
-#EXTINF:-1 tvg-id="Hgtv.br" tvg-name="HGTV UHD" tvg-logo="http://storage4you.net:2095/logoscanais/HGTV.png" group-title="Canais | Documentarios",HGTV UHD
-http://15110166167.com:80/327425510/B297D7783q/21294
-#EXTINF:-1 tvg-id="Hgtv.br" tvg-name="HGTV HD" tvg-logo="http://storage4you.net:2095/logoscanais/HGTV.png" group-title="Canais | Documentarios",HGTV HD
-http://15110166167.com:80/327425510/B297D7783q/2625
-#EXTINF:-1 tvg-id="Hgtv.br" tvg-name="HGTV HD²" tvg-logo="http://storage4you.net:2095/logoscanais/HGTV.png" group-title="Canais | Documentarios",HGTV HD²
-http://15110166167.com:80/327425510/B297D7783q/2626
-#EXTINF:-1 tvg-id="Hgtv.br" tvg-name="HGTV SD" tvg-logo="http://storage4you.net:2095/logoscanais/HGTV.png" group-title="Canais | Documentarios",HGTV SD
-http://15110166167.com:80/327425510/B297D7783q/2624
-#EXTINF:-1 tvg-id="History.br" tvg-name="History FHD" tvg-logo="http://storage4you.net:2095/logoscanais/HISTORY.png" group-title="Canais | Documentarios",History FHD
-http://15110166167.com:80/327425510/B297D7783q/2617
-#EXTINF:-1 tvg-id="History.br" tvg-name="History UHD" tvg-logo="http://storage4you.net:2095/logoscanais/HISTORY.png" group-title="Canais | Documentarios",History UHD
-http://15110166167.com:80/327425510/B297D7783q/59173
-#EXTINF:-1 tvg-id="History.br" tvg-name="History HD" tvg-logo="http://storage4you.net:2095/logoscanais/HISTORY.png" group-title="Canais | Documentarios",History HD
-http://15110166167.com:80/327425510/B297D7783q/2615
-#EXTINF:-1 tvg-id="History.br" tvg-name="History HD²" tvg-logo="http://storage4you.net:2095/logoscanais/HISTORY.png" group-title="Canais | Documentarios",History HD²
-http://15110166167.com:80/327425510/B297D7783q/2616
-#EXTINF:-1 tvg-id="History.br" tvg-name="History SD" tvg-logo="http://storage4you.net:2095/logoscanais/HISTORY.png" group-title="Canais | Documentarios",History SD
-http://15110166167.com:80/327425510/B297D7783q/2614
-#EXTINF:-1 tvg-id="History2.br" tvg-name="History 2 FHD" tvg-logo="http://storage4you.net:2095/logoscanais/HISTORY.png" group-title="Canais | Documentarios",History 2 FHD
-http://15110166167.com:80/327425510/B297D7783q/2622
-#EXTINF:-1 tvg-id="History2.br" tvg-name="History 2 UHD" tvg-logo="http://storage4you.net:2095/logoscanais/HISTORY.png" group-title="Canais | Documentarios",History 2 UHD
-http://15110166167.com:80/327425510/B297D7783q/21322
-#EXTINF:-1 tvg-id="History2.br" tvg-name="History 2 HD" tvg-logo="http://storage4you.net:2095/logoscanais/HISTORY.png" group-title="Canais | Documentarios",History 2 HD
-http://15110166167.com:80/327425510/B297D7783q/2620
-#EXTINF:-1 tvg-id="History2.br" tvg-name="History 2 SD" tvg-logo="http://storage4you.net:2095/logoscanais/HISTORY.png" group-title="Canais | Documentarios",History 2 SD
-http://15110166167.com:80/327425510/B297D7783q/2619
-#EXTINF:-1 tvg-id="Id.br" tvg-name="ID FHD" tvg-logo="http://storage4you.net:2095/logoscanais/ID.png" group-title="Canais | Documentarios",ID FHD
-http://15110166167.com:80/327425510/B297D7783q/2632
-#EXTINF:-1 tvg-id="Id.br" tvg-name="ID UHD" tvg-logo="http://storage4you.net:2095/logoscanais/ID.png" group-title="Canais | Documentarios",ID UHD
-http://15110166167.com:80/327425510/B297D7783q/21323
-#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="ID HD" tvg-logo="http://storage4you.net:2095/logoscanais/ID.png" group-title="Canais | Documentarios",ID HD
-http://15110166167.com:80/327425510/B297D7783q/2630
-#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="ID HD²" tvg-logo="http://storage4you.net:2095/logoscanais/ID.png" group-title="Canais | Documentarios",ID HD²
-http://15110166167.com:80/327425510/B297D7783q/2631
-#EXTINF:-1 tvg-id="Id.br" tvg-name="ID SD" tvg-logo="http://storage4you.net:2095/logoscanais/ID.png" group-title="Canais | Documentarios",ID SD
-http://15110166167.com:80/327425510/B297D7783q/2629
-#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="Telecine Action FHD" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Action FHD
-http://15110166167.com:80/327425510/B297D7783q/615
-#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="Telecine Action UHD" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Action UHD
-http://15110166167.com:80/327425510/B297D7783q/21279
-#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="Telecine Action HD" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Action HD
-http://15110166167.com:80/327425510/B297D7783q/613
-#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="Telecine Action HD²" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Action HD²
-http://15110166167.com:80/327425510/B297D7783q/614
-#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="Telecine Action SD" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Action SD
-http://15110166167.com:80/327425510/B297D7783q/612
-#EXTINF:-1 tvg-id="Tccult.br" tvg-name="Telecine Cult FHD" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Cult FHD
-http://15110166167.com:80/327425510/B297D7783q/620
-#EXTINF:-1 tvg-id="Tccult.br" tvg-name="Telecine Cult UHD" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Cult UHD
-http://15110166167.com:80/327425510/B297D7783q/21280
-#EXTINF:-1 tvg-id="Tccult.br" tvg-name="Telecine Cult HD" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Cult HD
-http://15110166167.com:80/327425510/B297D7783q/618
-#EXTINF:-1 tvg-id="Tccult.br" tvg-name="Telecine Cult HD²" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Cult HD²
-http://15110166167.com:80/327425510/B297D7783q/619
-#EXTINF:-1 tvg-id="Tccult.br" tvg-name="Telecine Cult SD" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Cult SD
-http://15110166167.com:80/327425510/B297D7783q/617
-#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="Telecine Fun FHD" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Fun FHD
-http://15110166167.com:80/327425510/B297D7783q/625
-#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="Telecine Fun UHD" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Fun UHD
-http://15110166167.com:80/327425510/B297D7783q/21281
-#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="Telecine Fun HD" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Fun HD
-http://15110166167.com:80/327425510/B297D7783q/623
-#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="Telecine Fun HD²" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Fun HD²
-http://15110166167.com:80/327425510/B297D7783q/624
-#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="Telecine Fun SD" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Fun SD
-http://15110166167.com:80/327425510/B297D7783q/622
-#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="Telecine Pipoca FHD" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Pipoca FHD
-http://15110166167.com:80/327425510/B297D7783q/630
-#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="Telecine Pipoca UHD" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Pipoca UHD
-http://15110166167.com:80/327425510/B297D7783q/21282
-#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="Telecine Pipoca HD" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Pipoca HD
-http://15110166167.com:80/327425510/B297D7783q/628
-#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="Telecine Pipoca HD²" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Pipoca HD²
-http://15110166167.com:80/327425510/B297D7783q/629
-#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="Telecine Pipoca SD" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Pipoca SD
-http://15110166167.com:80/327425510/B297D7783q/627
-#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="Telecine Premium FHD" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Premium FHD
-http://15110166167.com:80/327425510/B297D7783q/635
-#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="Telecine Premium UHD" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Premium UHD
-http://15110166167.com:80/327425510/B297D7783q/21283
-#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="Telecine Premium HD" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Premium HD
-http://15110166167.com:80/327425510/B297D7783q/633
-#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="Telecine Premium HD²" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Premium HD²
-http://15110166167.com:80/327425510/B297D7783q/634
-#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="Telecine Premium SD" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Premium SD
-http://15110166167.com:80/327425510/B297D7783q/632
-#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="Telecine Touch FHD" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Touch FHD
-http://15110166167.com:80/327425510/B297D7783q/589
-#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="Telecine Touch UHD" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Touch UHD
-http://15110166167.com:80/327425510/B297D7783q/21284
-#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="Telecine Touch HD" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Touch HD
-http://15110166167.com:80/327425510/B297D7783q/587
-#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="Telecine Touch HD²" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Touch HD²
-http://15110166167.com:80/327425510/B297D7783q/588
-#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="Telecine Touch SD" tvg-logo="http://storage4you.net:2095/logoscanais/TELECINE.png" group-title="Canais | Telecine",Telecine Touch SD
-http://15110166167.com:80/327425510/B297D7783q/586
-#EXTINF:-1 tvg-id="Megapix.br" tvg-name="Megapix FHD" tvg-logo="http://storage4you.net:2095/logoscanais/MEGAPIX.png" group-title="Canais | Filmes & Series",Megapix FHD
-http://15110166167.com:80/327425510/B297D7783q/692
-#EXTINF:-1 tvg-id="Megapix.br" tvg-name="Megapix UHD" tvg-logo="http://storage4you.net:2095/logoscanais/MEGAPIX.png" group-title="Canais | Filmes & Series",Megapix UHD
-http://15110166167.com:80/327425510/B297D7783q/21257
-#EXTINF:-1 tvg-id="Megapix.br" tvg-name="Megapix HD" tvg-logo="http://storage4you.net:2095/logoscanais/MEGAPIX.png" group-title="Canais | Filmes & Series",Megapix HD
-http://15110166167.com:80/327425510/B297D7783q/690
-#EXTINF:-1 tvg-id="Megapix.br" tvg-name="Megapix HD²" tvg-logo="http://storage4you.net:2095/logoscanais/MEGAPIX.png" group-title="Canais | Filmes & Series",Megapix HD²
-http://15110166167.com:80/327425510/B297D7783q/691
-#EXTINF:-1 tvg-id="Megapix.br" tvg-name="Megapix SD" tvg-logo="http://storage4you.net:2095/logoscanais/MEGAPIX.png" group-title="Canais | Filmes & Series",Megapix SD
-http://15110166167.com:80/327425510/B297D7783q/689
-#EXTINF:-1 tvg-id="Paramount.br" tvg-name="Paramount Network FHD" tvg-logo="http://storage4you.net:2095/logoscanais/PARAMOUNTNETWORK.png" group-title="Canais | Filmes & Series",Paramount Network FHD
-http://15110166167.com:80/327425510/B297D7783q/697
-#EXTINF:-1 tvg-id="Paramount.br" tvg-name="Paramount Network UHD" tvg-logo="http://storage4you.net:2095/logoscanais/PARAMOUNTNETWORK.png" group-title="Canais | Filmes & Series",Paramount Network UHD
-http://15110166167.com:80/327425510/B297D7783q/21265
-#EXTINF:-1 tvg-id="Paramount.br" tvg-name="Paramount Network HD" tvg-logo="http://storage4you.net:2095/logoscanais/PARAMOUNTNETWORK.png" group-title="Canais | Filmes & Series",Paramount Network HD
-http://15110166167.com:80/327425510/B297D7783q/695
-#EXTINF:-1 tvg-id="Paramount.br" tvg-name="Paramount Network HD²" tvg-logo="http://storage4you.net:2095/logoscanais/PARAMOUNTNETWORK.png" group-title="Canais | Filmes & Series",Paramount Network HD²
-http://15110166167.com:80/327425510/B297D7783q/696
-#EXTINF:-1 tvg-id="Paramount.br" tvg-name="Paramount Network SD" tvg-logo="http://storage4you.net:2095/logoscanais/PARAMOUNTNETWORK.png" group-title="Canais | Filmes & Series",Paramount Network SD
-http://15110166167.com:80/327425510/B297D7783q/694
-#EXTINF:-1 tvg-id="Space.br" tvg-name="Space FHD" tvg-logo="http://storage4you.net:2095/logoscanais/SPACE.png" group-title="Canais | Filmes & Series",Space FHD
-http://15110166167.com:80/327425510/B297D7783q/707
-#EXTINF:-1 tvg-id="Space.br" tvg-name="Space UHD" tvg-logo="http://storage4you.net:2095/logoscanais/SPACE.png" group-title="Canais | Filmes & Series",Space UHD
-http://15110166167.com:80/327425510/B297D7783q/21272
-#EXTINF:-1 tvg-id="Space.br" tvg-name="Space HD" tvg-logo="http://storage4you.net:2095/logoscanais/SPACE.png" group-title="Canais | Filmes & Series",Space HD
-http://15110166167.com:80/327425510/B297D7783q/705
-#EXTINF:-1 tvg-id="Space.br" tvg-name="Space HD²" tvg-logo="http://storage4you.net:2095/logoscanais/SPACE.png" group-title="Canais | Filmes & Series",Space HD²
-http://15110166167.com:80/327425510/B297D7783q/706
-#EXTINF:-1 tvg-id="Space.br" tvg-name="Space SD" tvg-logo="http://storage4you.net:2095/logoscanais/SPACE.png" group-title="Canais | Filmes & Series",Space SD
-http://15110166167.com:80/327425510/B297D7783q/704
-#EXTINF:-1 tvg-id="Star.br" tvg-name="Star Channel FHD" tvg-logo="http://storage4you.net:2095/logoscanais/STARCHANNEL.png" group-title="Canais | Star Channel",Star Channel FHD
-http://15110166167.com:80/327425510/B297D7783q/598
-#EXTINF:-1 tvg-id="Star.br" tvg-name="Star Channel UHD" tvg-logo="http://storage4you.net:2095/logoscanais/STARCHANNEL.png" group-title="Canais | Star Channel",Star Channel UHD
-http://15110166167.com:80/327425510/B297D7783q/21238
-#EXTINF:-1 tvg-id="Star.br" tvg-name="Star Channel HD" tvg-logo="http://storage4you.net:2095/logoscanais/STARCHANNEL.png" group-title="Canais | Star Channel",Star Channel HD
-http://15110166167.com:80/327425510/B297D7783q/597
-#EXTINF:-1 tvg-id="Star.br" tvg-name="Star Channel SD" tvg-logo="http://storage4you.net:2095/logoscanais/STARCHANNEL.png" group-title="Canais | Star Channel",Star Channel SD
-http://15110166167.com:80/327425510/B297D7783q/596
-#EXTINF:-1 tvg-id="Star.br" tvg-name="Cinecanal FHD" tvg-logo="http://storage4you.net:2095/logoscanais/cinecanal.png" group-title="Canais | Star Channel",Cinecanal FHD
-http://15110166167.com:80/327425510/B297D7783q/602
-#EXTINF:-1 tvg-id="Star.br" tvg-name="Cinecanal UHD" tvg-logo="http://storage4you.net:2095/logoscanais/cinecanal.png" group-title="Canais | Star Channel",Cinecanal UHD
-http://15110166167.com:80/327425510/B297D7783q/21239
-#EXTINF:-1 tvg-id="Star.br" tvg-name="Cinecanal HD" tvg-logo="http://storage4you.net:2095/logoscanais/cinecanal.png" group-title="Canais | Star Channel",Cinecanal HD
-http://15110166167.com:80/327425510/B297D7783q/601
-#EXTINF:-1 tvg-id="Star.br" tvg-name="Cinecanal SD" tvg-logo="http://storage4you.net:2095/logoscanais/cinecanal.png" group-title="Canais | Star Channel",Cinecanal SD
-http://15110166167.com:80/327425510/B297D7783q/600
-#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="Studio Universal FHD" tvg-logo="http://storage4you.net:2095/logoscanais/STUDIOUNIVERSAL.png" group-title="Canais | Filmes & Series",Studio Universal FHD
-http://15110166167.com:80/327425510/B297D7783q/713
-#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="Studio Universal UHD" tvg-logo="http://storage4you.net:2095/logoscanais/STUDIOUNIVERSAL.png" group-title="Canais | Filmes & Series",Studio Universal UHD
-http://15110166167.com:80/327425510/B297D7783q/21276
-#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="Studio Universal HD" tvg-logo="http://storage4you.net:2095/logoscanais/STUDIOUNIVERSAL.png" group-title="Canais | Filmes & Series",Studio Universal HD
-http://15110166167.com:80/327425510/B297D7783q/711
-#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="Studio Universal HD²" tvg-logo="http://storage4you.net:2095/logoscanais/STUDIOUNIVERSAL.png" group-title="Canais | Filmes & Series",Studio Universal HD²
-http://15110166167.com:80/327425510/B297D7783q/712
-#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="Studio Universal SD" tvg-logo="http://storage4you.net:2095/logoscanais/STUDIOUNIVERSAL.png" group-title="Canais | Filmes & Series",Studio Universal SD
-http://15110166167.com:80/327425510/B297D7783q/710
-#EXTINF:-1 tvg-id="Nationalgeo.br" tvg-name="National Geographic FHD" tvg-logo="http://storage4you.net:2095/logoscanais/NATGEO.png" group-title="Canais | Documentarios",National Geographic FHD
-http://15110166167.com:80/327425510/B297D7783q/363194
-#EXTINF:-1 tvg-id="Nationalgeo.br" tvg-name="National Geographic UHD" tvg-logo="http://storage4you.net:2095/logoscanais/NATGEO.png" group-title="Canais | Documentarios",National Geographic UHD
-http://15110166167.com:80/327425510/B297D7783q/21260
-#EXTINF:-1 tvg-id="Nationalgeo.br" tvg-name="National Geographic H265" tvg-logo="http://storage4you.net:2095/logoscanais/NATGEO.png" group-title="Canais | Documentarios",National Geographic H265
-http://15110166167.com:80/327425510/B297D7783q/141268
-#EXTINF:-1 tvg-id="Nationalgeo.br" tvg-name="National Geographic HD " tvg-logo="http://storage4you.net:2095/logoscanais/NATGEO.png" group-title="Canais | Documentarios",National Geographic HD 
-http://15110166167.com:80/327425510/B297D7783q/363200
-#EXTINF:-1 tvg-id="Nationalgeo.br" tvg-name="National Geographic HD²" tvg-logo="http://storage4you.net:2095/logoscanais/NATGEO.png" group-title="Canais | Documentarios",National Geographic HD²
-http://15110166167.com:80/327425510/B297D7783q/2636
-#EXTINF:-1 tvg-id="Nationalgeo.br" tvg-name="National Geographic SD" tvg-logo="http://storage4you.net:2095/logoscanais/NATGEO.png" group-title="Canais | Documentarios",National Geographic SD
-http://15110166167.com:80/327425510/B297D7783q/363201
+# Filmes
+
+#EXTINF:-1 tvg-id="Telecine.Action.HD.br,Telecine Action.br" tvg-name="Telecine Action" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/tca.png",Telecine Action
+https://super-cdn.link/telecineaction/video.m3u8
+
+#EXTINF:-1 tvg-id="Telecine.HD.br" tvg-name="Telecine Premium" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/tcpre.png",Telecine Premium
+https://super-cdn.link/telecinepremium/video.m3u8
+
+#EXTINF:-1 tvg-id="Telecine.Pipoca.HD.br" tvg-name="Telecine Pipoca" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/tcp.png",Telecine Pipoca
+https://super-cdn.link/telecinepipoca/video.m3u8
+
+#EXTINF:-1 tvg-id="Telecine.Cult.HD.br" tvg-name="Telecine Cult" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/tcc.png",Telecine Cult
+https://super-cdn.link/telecinecult/video.m3u8
+
+#EXTINF:-1 tvg-id="Telecine.Fun.HD.br" tvg-name="Telecine Fun" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/tcf.png",Telecine Fun
+https://super-cdn.link/telecinefun/video.m3u8
+
+#EXTINF:-1 tvg-id="Telecine.Touch.HD.br" tvg-name="Telecine Touch" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/tct.png",Telecine Touch
+https://super-cdn.link/telecinetouch/video.m3u8
+
+#EXTINF:-1 tvg-id="A.and.E.HD.br" tvg-name="A&E" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/aee.webp",A&E
+https://super-cdn.link/aee/video.m3u8
+
+#EXTINF:-1 tvg-id="AMC.br" tvg-name="AMC" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/amc.webp",AMC
+http://dzcdn.vood.top/hls/669_.m3u8
+
+#EXTINF:-1 tvg-id="Paramount.Network.HD.br" tvg-name="Paramount Network" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/paramountnet.webp",Paramount
+http://dzcdn.vood.top/hls/695_.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Sony One" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/sonyemo.webp",Sony One Emoções
+https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SonyOneEmocoes/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Sony.HD.br" tvg-name="Sony" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/sonychannel.webp",Sony
+https://super-cdn.link/sonychannel/video.m3u8
+
+#EXTINF:-1 tvg-id="AXN.HD.br" tvg-name="AXN" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/axn.webp",AXN
+https://super-cdn.link/axn/index.m3u8
+
+#EXTINF:-1 tvg-id="Cinemax.HD.br" tvg-name="Cinemax" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/cinemax.png",Cinemax
+https://super-cdn.link/cinemax/video.m3u8
+
+#EXTINF:-1 tvg-id="Space.HD.br" tvg-name="Space" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/space.webp",Space
+https://super-cdn.link/space/video.m3u8
+
+#EXTINF:-1 tvg-id="STAR.Channel.br" tvg-name="Star Channel" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/starc.png",Star Channel
+https://super-cdn.link/starchannel/video.m3u8
+
+#EXTINF:-1 tvg-id="USA.HD.br" tvg-name="USA" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/usa.png",USA
+https://super-cdn.link/usa/index.m3u8
+
+#EXTINF:-1 tvg-id="FX.HD.br" tvg-name="FX" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/fx.webp",FX
+https://stream1.freetv.fun/2cea890736aa8781a48a0e9ac24bad82e110c6ee8cd15a43b57608ea41ae9678.m3u8
+
+#EXTINF:-1 tvg-id="HBO.HD.br" tvg-name="HBO" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/hbo.webp",HBO
+https://super-cdn.link/hbo/video.m3u8
+
+#EXTINF:-1 tvg-id="HBO.2.HD.br" tvg-name="HBO2" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/hbo2.webp",HBO2
+https://super-cdn.link/hbo2/video.m3u8
+
+#EXTINF:-1 tvg-id="HBO.Mundi.HD.br" tvg-name="HBO Mundi" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/hbom.png",HBO Mundi
+http://dzcdn.vood.top:80/hls/18771_.m3u8
+
+#EXTINF:-1 tvg-id="HBO.Plus.HD.br" tvg-name="HBO Plus" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/hboplus.webp",HBO Plus
+https://super-cdn.link/hboplus/video.m3u8
+
+#EXTINF:-1 tvg-id="HBO.Family.HD.br" tvg-name="HBO Family" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/hbofamily.webp",HBO Family
+https://super-cdn.link/hbofamily/video.m3u8
+
+#EXTINF:-1 tvg-id="HBO.Xtreme.HD.br" tvg-name="HBO Xtreme" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/hbox.png",HBO Xtreme
+https://super-cdn.link/hboxtreme/video.m3u8
+
+#EXTINF:-1 tvg-id="Megapix.HD.br" tvg-name="Megapix" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/megapix.png",Megapix
+https://super-cdn.link/megapix/index.m3u8
+
+#EXTINF:-1 tvg-id="Studio.Universal.br" tvg-name="Studio Universal" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/studiouniversal.webp",Studio Universal
+https://super-cdn.link/studiouniversal/index.m3u8
+
+#EXTINF:-1 tvg-id="TNT.HD.br" tvg-name="TNT" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/tnt.webp",TNT
+https://super-cdn.link/tnt/index.m3u8
+
+#EXTINF:-1 tvg-id="TNT.Novelas.br" tvg-name="TNT Novelas" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/tntn.png",TNT Novelas
+https://super-cdn.link/tntnovelas/index.m3u8
+
+#EXTINF:-1 tvg-id="TNT Series HD.br" tvg-name="TNT Series" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/tntseries.png",TNT Series
+http://gohbhosting.xyz:8080/Xpluxkikivgfcgkiki/Solucao11/108
+
+#EXTINF:-1 tvg-id="Universal.TV.HD.br" tvg-name="Universal TV" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/universaltv.png",Universal Tv
+https://super-cdn.link/universaltv/index.m3u8
+
+#EXTINF:-1 tvg-id="Warner.HD.br" tvg-name="Warner" group-title="Filmes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/warner.png",Warner
+https://super-cdn.link/warnerchannel/index.m3u8
+
+# Desenhos
+
+#EXTINF:-1 tvg-id="Cartoonito.br" tvg-name="Cartoonito" group-title="Desenhos" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/cnito.png",Cartoonito
+https://super-cdn.link/cartoonito/index.m3u8
+
+#EXTINF:-1 tvg-id="Cartoon.HD.br" tvg-name="Cartoon" group-title="Desenhos" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/cn.webp",Cartoon Network
+https://super-cdn.link/cartoonnetwork/video.m3u8
+
+#EXTINF:-1 tvg-id="Disney.HD.br" tvg-name="Disney" group-title="Desenhos" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/disneychannel.png",Disney Channel
+http://15.235.50.115:14563/DisneyChannel
+
+#EXTINF:-1 tvg-id="Discovery.Kids.HD.br" tvg-name="Discovery Kids" group-title="Desenhos" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/dkids.png",Discovery Kids
+http://15.235.50.115:14561/DiscoveryKids
+
+#EXTINF:-1 tvg-id="Nickelodeon.HD.br" tvg-name="Nickelodeon" group-title="Desenhos" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/nik.png",Nickelodeon
+https://super-cdn.link/nickelodeon/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Desenhos" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/unnamed_4cMwnRI.png",Kids Mais
+https://video03.logicahost.com.br/novafamilia01/novafamilia01/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Desenhos" tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/rc.png",Retro Cartoon
+https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
+
+# Documentarios
+
+#EXTINF:-1 tvg-id="Animal.Planet.br" tvg-name="Animal Planet" group-title="Documentarios" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/ap.webp",Animal Planet
+https://super-cdn.link/animalplanet/index.m3u8
+
+#EXTINF:-1 tvg-id="Discovery.HD.br" tvg-name="Discovery" group-title="Documentarios" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/discovery.webp",Discovery Channel
+https://super-cdn.link/discoverychannel/index.m3u8
+
+#EXTINF:-1 tvg-id="Discovery.World.br" tvg-name="Discovery World" group-title="Documentarios" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/discoveryworld.png",Discovery World
+http://15.235.50.112:14112/DiscoveryWorld
+
+#EXTINF:-1 tvg-id="Curta!.HD.br" tvg-name="Curta!" group-title="Documentarios" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/curta.png",Curta!
+http://15.235.50.114:19171/Curta
+
+#EXTINF:-1 tvg-id="Nat.Geo.HD.br" tvg-name="Nat Geo" group-title="Documentarios" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/natgeo.webp",National Geographic
+https://super-cdn.link/nationalgeographic/index.m3u8
+
+#EXTINF:-1 tvg-id="Discovery.Home.and.Health.HD.br" tvg-name="Discovery Home and Health" group-title="Documentarios" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/dhh.png",Discovery h&h
+https://super-cdn.link/discoveryheh/index.m3u8
+
+#EXTINF:-1 tvg-id="Discovery.Turbo.HD.br" tvg-name="Discovery Turbo" group-title="Documentarios" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/discoveryturbo.png",Discovery Turbo
+https://super-cdn.link/discoveryturbo/index.m3u8
+
+#EXTINF:-1 tvg-id="History.HD.br" tvg-name="History" group-title="Documentarios" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/history.webp",History
+https://stream1.freetv.fun/cf48eb9b171e93d765a69684aa345e11597a6a972452a2d810d6facb2f66016d.m3u8
+
+#EXTINF:-1 tvg-id="History.2.br" tvg-name="History 2" group-title="Documentarios" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/history2.webp",History 2
+https://super-cdn.link/history2/index.m3u8
+
+# Musicas
+
+#EXTINF:-1 tvg-id="BIS.HD.br" tvg-name="Bis" group-title="Música" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/bis.png",Bis
+https://super-cdn.link/bis/index.m3u8
+
+# Diversos
+
+#EXTINF:-1 tvg-id="Comedy.Central.HD.br" tvg-name="Comedy Central" group-title="Diversos" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/cc.png",Comedy Central
+https://super-cdn.link/comedycentral/index.m3u8
+
+#EXTINF:-1 tvg-id="GNT.HD.br" tvg-name="GNT" group-title="Diversos" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/gnt.png",GNT
+https://super-cdn.link/gnt/index.m3u8
+
+#EXTINF:-1 tvg-id="Viva.HD.br" tvg-name="Viva" group-title="Diversos" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/viva.webp",VIVA
+https://live-as-04-27.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtYXMtMDQtMjcudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzM2MTE4Nzg4LCJpYXQiOjE3MzYwMzIzODgsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiNjFlMTBhNmYtNDRhNi00MmQ5LThiMjEtMmQ1ZTkyOTc3NzdmIiwicGF0aCI6Ii9saXZlL2YoYk1pbj0yMDAwKS92aXZhMjRoYS9wbGF5bGlzdC5tM3U4In0.vMQiYToaAylLNjdh4xDoqnWRkoMk0mkNVJWdmPGihYLEW3Apg3blYE7K-ueHyrR-GFGdEzaedoI-X1Eqfl-e5KrlpBdgZZ-di5b7f1X4_AiwVxabrY2svmBDwQyQ6zOpYDKTjeC1sxzEpvj1GvbUVtkR6yICCJXuGG6SVikB7OrteX4BXtDZpFd8_MZoABjQI_fUJzxtdoUehrvq3yOxksvYnF3nqPinGXmBxkTLLoL0ByTVBRNX8UChLMzciGYJqi-dI6SSCifkdtBJchF3M-loNKoVTSWP7iBXtlqWdJXwwhvSg7FkVAye4UJdn9JxcAYyw-SOxcH75e4C76UroA/live/f(bMin=2000)/viva24ha/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Diversos" tvg-logo="https://d14vd6r4ppsx57.cloudfront.net/media/brand/logo_tVEa6RS.png",Tv Pet
+https://isaocorp.cloudecast.com/tvmaispet/tracks-v1a1/mono.m3u8
+
+# Jornalismo
+
+#EXTINF:-1 tvg-id="CNN.Brasil.HD.br" tvg-name="CNN Brasil" group-title="Jornalismo" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/cnn.webp",CNN Brasil
+https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Jornalismo" tvg-logo="https://images.pluto.tv/channels/645a99282858cb0008ea8378/colorLogoPNG.png",New Brasil
+https://cc-7pakstinpyajo.akamaized.net/playlist1080p.m3u8
+
+#EXTINF:-1 tvg-id="Jovem.Pan.News.br" tvg-name="Jovem Pan News" group-title="Jornalismo" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/jpnews.webp",JP News
+https://d9tard1jbwri9.cloudfront.net/playlist1080p.m3u8
+
+# Canais Abertos
+
+#EXTINF:-1 tvg-id="Band.br" tvg-name="" group-title="Abertos" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/band.png",Band
+https://super-cdn.link/band/index.m3u8
+
+#EXTINF:-1 tvg-id="GLOBO.br" tvg-name="" group-title="Abertos" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/globo.png",Globo
+https://tv.fazoeli.co.za/m3u8/globorj.m3u8
+
+#EXTINF:-1 tvg-id="Record.br" tvg-name="" group-title="Abertos" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/record.png",Record
+https://super-cdn.link/record/index.m3u8
+
+#EXTINF:-1 tvg-id="REDETV.HD.br" tvg-name="" group-title="Abertos" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/redetv.png",Rede TV
+https://d1wwtskvr1r98k.cloudfront.net/out/v1/f61282790c1f4644ba906364b7d49d8d/index_3.m3u8
+
+#EXTINF:-1 tvg-id="Rede.Vida.HD.br" tvg-name="" group-title="Abertos" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/redevd.png",Rede Vida
+https://d12e4o88jd8gex.cloudfront.net/out/v1/cea3de0b76ac4e82ab8ee0fd3f17ce12/index.m3u8
+
+#EXTINF:-1 tvg-id="SBT.br" tvg-name="" group-title="Abertos" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/sbt.png",SBT
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Cultura.HD.br" tvg-name="" group-title="Abertos" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/tvcultura.png",Cultura
+https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
+
+# 24h
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="24h" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/tratamentodechoque.webp",Tratamento de Choque
+https://amg00353-lionsgatestudio-tratamentodechoque-runtimelatam-rmwee.amagi.tv/playlist/amg00353-lionsgatestudio-tratamentodechoque-runtimelatam/playlist.m3u8
+
+# Esportes
+
+#EXTINF:-1 tvg-id="Combate.HD.br" tvg-name="" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/combate.png",Combate
+https://super-cdn.link/combate/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/mavtvbr.webp",MAVTV Brasil
+https://cc-panvcqnzkgrdl.akamaized.net/Sports7/Sports7_BR/Sports7.m3u8
+
+#EXTINF:-1 tvg-id="ESPN.br" tvg-name="ESPN" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/espn.webp",ESPN
+http://hzcdn.vood.top:80/hls/309458_.m3u8
+
+#EXTINF:-1 tvg-id="ESPN.2.br" tvg-name="ESPN 2" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/espn.webp",ESPN 2
+https://super-cdn.link/espn2/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN.3.br" tvg-name="ESPN 3" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/espn.webp",ESPN 3
+https://super-cdn.link/espn3/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN.4.br" tvg-name="ESPN 4" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/espn.webp",ESPN 4
+https://super-cdn.link/espn4/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 5" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/espn.webp",ESPN 5
+https://super-cdn.link/espn5/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 6" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/espn.webp",ESPN 6
+https://super-cdn.link/espn6/index.m3u8
+
+#EXTINF:-1 tvg-id="Bandsports.HD.br" tvg-name="Band Sports" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/bandsports.png",Band Sports
+http://dzcdn.vood.top/hls/232_.m3u8
+
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="Sportv" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/sportv.png",Sportv
+https://super-cdn.link/sportv/index.m3u8
+
+#EXTINF:-1 tvg-id="SporTV.2.br" tvg-name="SporTV 2" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/sportv2.png",Sportv 2
+https://super-cdn.link/sportv2/index.m3u8
+
+#EXTINF:-1 tvg-id="SporTV.3.br" tvg-name="SporTV 3" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/sportv3.png",Sportv 3
+https://super-cdn.link/sportv3/index.m3u8
+
+#EXTINF:-1 tvg-id="Premiere.HD.br" tvg-name="Premiere" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/pfc.png",Premiere Clubes
+https://super-cdn.link/premiereclubes/index.m3u8
+
+#EXTINF:-1 tvg-id="Premiere.HD2.br" tvg-name="Premiere 2" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/pfc.png",Premiere 2
+https://super-cdn.link/premiere2/index.m3u8
+
+#EXTINF:-1 tvg-id="Premiere.HD.3.br" tvg-name="Premiere 3" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/pfc.png",Premiere 3
+https://super-cdn.link/premiere3/index.m3u8
+
+#EXTINF:-1 tvg-id="Premiere.HD.4.br" tvg-name="Premiere 4" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/pfc.png",Premiere 4
+https://super-cdn.link/premiere4/index.m3u8
+
+#EXTINF:-1 tvg-id="Premiere.HD.5.br" tvg-name="Premiere 5" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/pfc.png",Premiere 5
+https://super-cdn.link/premiere5/index.m3u8
+
+#EXTINF:-1 tvg-id="Premiere.HD6.br" tvg-name="Premiere 6" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/pfc.png",Premiere 6
+https://super-cdn.link/premiere6/index.m3u8
+
+#EXTINF:-1 tvg-id="Premiere.HD7.br" tvg-name="Premiere 7" group-title="Esportes" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/pfc.png",Premiere 7
+https://super-cdn.link/premiere7/index.m3u8
+
+# +18
