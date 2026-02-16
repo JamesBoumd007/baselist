@@ -1,8 +1,9 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/epg/aulas.xml"
+#EXTM3U
 
 # Introdução
 
-#EXTINF:-1 type="series" tvg-name="Detox 30+" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/detox.png" group-title="Introdução",S01E01 - Introdução
+#EXTINF:-1 type="series" tvg-name="Detox 30+" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/detox.png" tvg-description="Escolha entre 4 opções de treino (academia, desafio em casa ou combinado), siga a ordem, faça pelo menos 4x por semana e bora curtir os resultados! 💪
+" group-title="Introdução",S01E01 - Introdução
 https://download1474.mediafire.com/us5rl9whyybg73s08btrycaOq2tJNn2BcyVtAvcg4Et4gxZ4Bs-o6Fk2KmnR9xQpQ8rrOoSWYjp6BO-NT1SRkxuMylUSnA8xHJ5EH1VkvrX9yZNMBDH-hMSzpXsrXmQOq_AmPPC5Ywt1g2iA_qr69T4FTr2FDz27LTJ1yn8036fSOQ/zl3qkr6zfcebsct/01+-+ASSISTA+ISSO+ANTES+DE+COME%C3%87AR.mp4
 
 #EXTINF:-1 type="series" tvg-name="Detox 30+" tvg-logo="https://raw.githubusercontent.com/JamesBoumd007/baselist/refs/heads/main/logos/detox.png" group-title="Introdução",S01E02 - Avaliação Fisica
